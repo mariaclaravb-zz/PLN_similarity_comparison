@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 import matplotlib.pyplot as plt
 import numpy as np
@@ -28,10 +29,8 @@ if __name__ == '__main__':
                     frequencies[w] = 0
                 frequencies[w] += 1
 
-
         # imprimir as 20 palavras mais frequentes
         fs = sorted(frequencies, key=frequencies.get, reverse=True)
-
 
         # GRÁFICO FREQUÊNCIAS
         x_axis = sorted(list(frequencies.values()), reverse=True)[:10]  # frequencias

@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
-
 import PyPDF2
 import os
-
 
 def pdf_to_text(file_path):
     pdf_reader = PyPDF2.PdfFileReader(file_path)
@@ -23,8 +21,7 @@ def merge_from_path(path):
 
 if __name__ == '__main__':
 
-    # paths = ["feminismo/", "liberalismo/", "marxismo/"]
-    paths = ["liberalismo/"]
+    paths = ["feminismo/", "liberalismo/", "marxismo/"]
 
     # Convert pdf to text
     for path in paths:
