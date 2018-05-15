@@ -1,0 +1,1621 @@
+O Capital
+Karl Marx
+Parte 1 - Capítulo 1: A Mercadoria
+Sumário :
+Seção 1 - Os Dois Fatores da Mercadoria: Valor-de-Uso e Valor-de-Troca ou Valor Propriamente
+Dito (Substância do Valor, Grandeza do Valor)
+Seção 2 - Duplo Caracter do Trabalho Representado na Mercadoria
+Seção 3 - A Forma do Valor [ou o valor-de-troca]
+A - Forma simples, [singular] ou acidental do valor
+1. Os dois pólos da expressão do valor: a forma relativa e a forma de equivalente
+2. A forma relativa do valor
+a) Conteúdo desta forma
+b) Determinação quantitativa da forma-valor relativa
+3. A forma de equivalente e suas particularidades
+4. A forma-valor simples, no seu conjunto
+B - Forma-valor total ou desenvolvida
+1. A forma desenvolvida do valor relativo
+2. A forma-equivalente particular
+3. Defeitos da forma-valor total ou desenvolvida
+C - Forma geral do valor
+1. Mudança de carácter da forma-valor
+2. Relação entre o desenvolvimento da forma-valor relativa e o da forma-equivalente
+3. Transição da forma-valor geral à forma-dinheiro
+D - Forma-dinheiro
+Seção 4 - O Fetichismo da Mercadoria e o Seu SegredoSeção 1
+Os Dois Factores da Mercadoria:
+Valor-de-Uso e Valor-de-Troca ou Valor Propriamente Dito
+(Substância do valor, Grandeza do Valor)
+A riqueza das sociedades em que domina o modo-de-produção capitalista apresenta-se como uma
+«imensa acumulação de mercadorias».1 A análise da mercadoria, forma elementar desta riqueza,
+será, por conseguinte, o ponto de partida da nossa investigação.
+A mercadoria é, antes de tudo, um objecto exterior, uma coisa que, pelas suas propriedades,
+satisfaz necessidades humanas de qualquer espécie. Que essas necessidades tenham a sua
+origem no estômago ou na fantasia, a sua natureza em nada altera a questão.2 Não se trata tão
+pouco aqui de saber como são satisfeitas essas necessidades: imediatamente, se o objecto é um
+meio de subsistência, [objecto de consumo,] indirectamente, se é um meio de produção.
+Todas as coisas úteis, como o ferro, o papel, etc., podem ser consideradas sob um duplo ponto de
+vista: o da qualidade e o da quantidade. Cada uma delas é um conjunto de propriedades diversas,
+podendo, por conseguinte, ser útil sob diferentes aspectos. Descobrir esses diversos aspectos e,
+ao mesmo tempo, os diversos usos das coisas, isso é obra da história.3 Assim, a descoberta de
+medidas sociais para quantificar as coisas úteis: a diversidade destas medidas decorre, em parte,
+da natureza diversa dos objectos a medir, em parte, de convenção.
+A utilidade de uma coisa transforma essa coisa num valor-de-uso.4 Mas esta utilidade nada tem de
+vago e de indeciso. Sendo determinada pelas propriedades do corpo da mercadoria, não existe
+sem ele. O próprio corpo da mercadoria, tal como o ferro, o trigo, o diamante, etc., é,
+consequentemente, um valor-de-uso, e não é o maior ou menor trabalho necessário ao homem
+para se apropriar das qualidades úteis que lhe confere esse carácter. Quando estão em causa
+valores-de-uso, subentende-se sempre uma quantidade determinada, como uma dúzia de relógios,
+um metro de tecido, uma tonelada de ferro, etc. Os valores-de-uso das mercadorias constituem o
+objecto de um saber particular: a ciência e a arte comerciais.5 Os valores-de-uso só se realizam
+pelo uso ou pelo consumo. Constituem o conteúdo material da riqueza, qualquer que seja a forma
+social dessa riqueza. Na sociedade que nos propomos examinar, são, ao mesmo tempo, os
+suportes materiais do valor-de-troca.
+O valor-de-troca surge, antes de tudo, como a relação quantitativa, a proporção em que valores-de-
+uso de espécie diferente se trocam entre si,6 relação que varia constantemente com o tempo e o
+lugar. O valor-de-troca parece, portanto, qualquer coisa de arbitrário e de puramente relativo; um
+valor-de-troca intrínseco, imanente à mercadoria, parece ser, como diz a escola, uma contradictio
+in adjecto (*) .7
+Vejamos a questão mais de perto. Uma mercadoria particular (por exemplo um alqueire de trigo)
+troca-se por outros artigos nas mais diversas proporções. [Portanto, o trigo tem múltiplos valores-
+de-troca, em vez de um só]. No entanto, o seu valor-de-troca permanece imutável,
+independentemente da maneira por que se exprime: em x de cera, em y de seda, em z de ouro,
+etc. [Uma vez que cada uma dessas coisas - x cera, y seda, z ouro - é o valor-de-troca de 1
+alqueire de trigo, elas têm de ser - por sua vez - valores-de-troca permutáveis entre si e iguais.
+Daqui resultam duas coisas: em primeiro lugar, os valores-de-troca válidos para uma mesma
+mercadoria exprimem uma igualdade; em segundo lugar, porém,] o valor-de-troca tem de ter um
+conteúdo distinto dessas diversas expressões.
+Tomemos agora duas mercadorias, trigo e ferro, por exemplo. Qualquer que seja a sua relação de
+troca, ela pode ser sempre representada por uma equação em que uma dada quantidade de trigo é
+considerada igual a uma quantidade qualquer de ferro (por exemplo, 1 alqueire de trigo = a quilos
+de ferro). Que significa esta equação? Significa que em dois objectos diferentes, em 1 alqueire de
+trigo e em a quilos de ferro, existe algo de comum. Ambos os objectos são, portanto, iguais a um
+terceiro que, em si mesmo, não é nem um nem outro. Cada um deles deve, enquanto valor-de-
+troca, ser redutível ao terceiro, independentemente do outro.Um exemplo extraído da geometria elementar ilustra isso claramente. Para medir e comparar as
+superfícies de qualquer figura rectilínea, decompômo-la em triângulos. Depois reduzimos o
+triângulo a uma expressão completamente diferente do seu aspecto visível: ao semi-produto da
+base pela altura. Do mesmo modo, os valores-de-troca das mercadorias devem ser reduzidos a
+qualquer coisa de comum, de que representam um mais ou um menos.
+Este elemento comum não pode ser uma propriedade natural qualquer - geométrica, física,
+química, etc. - das mercadorias. As qualidades naturais destas só são tomadas em consideração,
+na medida em que lhes conferem uma utilidade que as torna valores-de-uso. Mas, por outro lado, é
+evidente que na troca se faz abstracção do valor-de-uso das mercadorias, sendo a relação de troca
+caracterizada precisamente por essa abstracção. Na troca, um valor-de-uso vale precisamente
+tanto como qualquer outro, desde que se encontre na proporção adequada. Ou, como diz o velho
+Barbon: «Uma espécie de mercadoria é tão boa como outra, quando o seu valor-de-troca é igual;
+não existe nenhuma diferença, nenhuma distinção entre coisas de igual valor-de-troca».8 Como
+valores-de-uso, as mercadorias são, sobretudo, de qualidade diferente; como valores-de-troca só
+podem ser de quantidade diferente [e não contêm, portanto, um só átomo de valor-de-uso].
+Ora, se abstrairmos do valor-de-uso das mercadorias, resta-lhes uma única qualidade; a de serem
+produto do trabalho. Então, porém, já o próprio produto do trabalho está metamorfoseado sem o
+sabermos. Com efeito, se abstrairmos do seu valor-de-uso, abstraímos também de todos os
+elementos materiais e formais que lhe conferem esse valor. Já não é, por exemplo, mesa, casa, fio,
+ou qualquer outro objecto útil; já não é também o produto do trabalho do marceneiro, do pedreiro,
+de qualquer trabalho produtivo determinado. Juntamente com os caracteres úteis particulares dos
+produtos do trabalho, desaparecem o carácter útil dos trabalhos neles contidos e as diversas
+formas concretas que distinguem as diferentes espécies de trabalho. Apenas resta, portanto, o
+carácter comum desses trabalhos; todos eles são reduzidos ao mesmo trabalho humano, [trabalho
+humano abstracto,] a um dispêndio de força humana de trabalho, independentemente da forma
+particular que revestiu o dispêndio dessa força.
+Consideremos agora o resíduo dos produtos do trabalho. Eles assemelham-se completamente uns
+aos outros. Todos eles têm uma mesma realidade fantástica, invisível. Metamorfoseados em
+sublimados idênticos, fracções do mesmo trabalho indistinto, todos estes objectos manifestam
+apenas uma coisa: que na sua produção foi dispendida uma força de trabalho humano, que neles
+está acumulado trabalho humano [independentemente da forma concreta do trabalho]. Enquanto
+cristais dessa substância social comum, são considerados valores [,valores-mercadoria].
+[Na própria relação de troca das mercadorias o seu valor-de-troca aparece-nos como algo de
+completamente independente dos seus valores-de-uso. Ora, se abstrairmos efectivamente do
+valor-de-uso dos produtos do trabalho, teremos o seu valor, tal como acaba de ser determinado.] O
+que há de comum nas mercadorias e que se mostra na relação de troca ou no valor-de-troca é,
+pois, o seu valor. [Adiante voltaremos a considerar o valor-de-troca, como necessário modo de
+expressão ou forma de manifestação do valor. Para já, contudo, há que considerar o valor
+independentemente dessa forma.]
+Vimos que um valor-de-uso ou um artigo qualquer só tem valor na medida em que nele está
+[objectivizado,] materializado trabalho humano [abstracto]. Ora, como medir a grandeza do seu
+valor? Pela quantidade da substância «criadora de valor» nele contida, isto é, pela quantidade de
+trabalho. Por sua vez, a quantidade de trabalho tem por medida a sua duração, e o tempo de
+trabalho mede-se em unidades de tempo, tais como a hora, o dia, etc.
+Poder-se-ia imaginar que, se o valor de uma mercadoria é determinado pela quantidade de
+trabalho gasto na sua produção, então quanto mais preguiçoso ou inábil for um homem mais valor
+terá a sua mercadoria, pois emprega mais tempo na sua produção. Contudo, o trabalho que
+constitui a substância do valor das mercadorias é trabalho igual e indistinto, um dispêndio da
+mesma força de trabalho. A totalidade da força de trabalho da sociedade, que se manifesta no
+conjunto dos valores, só releva, por conseguinte, como força única, embora se componha de
+inúmeras forças individuais. Cada força de trabalho individual é igual a qualquer outra, na medida
+em que possui o carácter de uma força social média e funciona como tal, isto é, emprega na
+produção de uma mercadoria apenas o tempo de trabalho necessário em média, ou o tempo de
+trabalho socialmente necessário.
+O tempo socialmente necessário à produção das mercadorias é o tempo exigido pelo trabalho
+executado com um grau médio de habilidade e de intensidade e em condições normais,
+relativamente ao meio social dado. Depois da introdução do tear a vapor na Inglaterra, passou a sernecessário talvez apenas metade de trabalho que anteriormente era necessário para transformar
+em tecido uma certa quantidade de fio. O tecelão manual inglês, esse continuou a precisar do
+mesmo tempo que antes para executar essa transformação; mas, a partir desse momento, o
+produto da sua hora de trabalho individual passou a representar apenas metade de uma hora
+social, não criando mais que metade do valor anterior.
+É, pois, somente a quantidade de trabalho ou o tempo de trabalho necessário numa dada
+sociedade para a produção de um artigo que determina a grandeza do seu valor.9 Cada
+mercadoria particular conta em geral como um exemplar médio da sua espécie.10 As mercadorias
+que contêm iguais quantidades de trabalho ou que podem ser produzidas no mesmo tempo têm,
+portanto, um valor igual. O valor de uma mercadoria está para o valor de qualquer outra como o
+tempo de trabalho necessário à produção de uma está para o tempo de trabalho necessário à
+produção da outra. [«Como valores, as mercadorias são apenas medidas determinadas de tempo
+de trabalho cristalizado» 10a]
+A grandeza de valor de uma mercadoria permaneceria, evidentemente, constante se o tempo
+necessário à sua produção permanecesse constante. Contudo, este último varia com cada
+modificação da força produtiva ou produtividade do trabalho, que, por sua vez, depende de
+circunstâncias diversas: entre outras, da habilidade média dos trabalhadores, do desenvolvimento
+da ciência e do grau da sua aplicação tecnológica, das combinações sociais da produção, da
+extensão e eficácia dos meios de produção e de condições puramente naturais. A mesma
+quantidade de trabalho é representada, por exemplo, por oito alqueires de trigo se a estação é
+favorável e por quatro alqueires somente, no caso contrário. A mesma quantidade de trabalho
+extrai mais metal das minas ricas do que das minas pobres, etc. Os diamantes só raramente
+aparecem na camada superior da crosta terrestre; para encontrá-los, torna-se necessário, em
+média, um tempo considerável, de modo que representam muito trabalho num pequeno volume. É
+duvidoso que o ouro tenha alguma vez pago completamente o seu valor. Isto ainda é mais
+verdadeiro no caso dos diamantes. Segundo Eschwege, o produto total da exploração das minas
+de diamantes do Brasil, durante oitenta anos, não tinha ainda atingido em 1823 o preço do produto
+médio de um ano e meio das plantações de açúcar ou de café do mesmo país, embora
+representasse muito mais trabalho e, portanto, mais valor. Com minas mais ricas, a mesma
+quantidade de trabalho representaria uma maior quantidade de diamantes, cujo valor baixaria. Se
+se conseguisse transformar com pouco trabalho o carvão em diamante, o valor deste último
+desceria talvez abaixo do valor dos tijolos. Em geral: quanto maior é a força produtiva do trabalho,
+menor é o tempo necessário à produção de um artigo, menor é a massa de trabalho nele
+cristalizada, menor é o seu valor. Inversamente, quanto menor é a força produtiva do trabalho,
+maior é o tempo necessário à produção de um artigo, maior é o seu va1or. A grandeza de valor de
+uma mercadoria varia, pois, na razão directa da quantidade e na razão inversa da produtividade do
+trabalho que nela se realiza
+Conhecemos agora a substância do valor: é o trabalho. Conhecemos a medida da sua grandeza: é
+a duração do trabalho. [Resta analisar a sua forma, que qualifica o valor precisamente como valor-
+de-troca. Antes disso, porém, importa precisar as definições a que já chegámos.] [10]
+Uma coisa pode ser um valor-de-uso e não ser um valor: basta que seja útil ao homem sem provir
+do seu trabalho. Assim acontece com o ar, prados naturais, terras virgens, etc. Uma coisa pode ser
+útil e produto do trabalho humano e não ser mercadoria. Quem, pelo seu produto, satisfaz as suas
+próprias necessidades, apenas cria um valor-de-uso pessoal [,mas não uma mercadoria] .Para
+produzir mercadorias, tem não somente de produzir valores-de-uso, mas valores-de-uso para os
+outros, valores-de-uso sociais. [E não basta produzir para os outros. O camponês medieval
+produzia cereais para pagar o tributo ao senhor feudal e o dízimo à igreja. Mas nem o tributo nem o
+dízimo, embora produzidos para outrem, eram mercadorias. Para ser mercadoria é necessário que
+o produto seja transferido para outrem, que o utilize como valor-de-uso, por meio de troca. 10b]
+Finalmente, nenhum objecto pode ser um valor se não for uma coisa útil. Se é inútil, o trabalho que
+contém é gasto inutilmente [,não conta como trabalho] e, portanto, não cria valor.
+Início da páginaSeção 2
+Duplo Carater do Trabalho Representado na Mercadoria
+Numa primeira aproximação, a mercadoria apareceu-nos sob um duplo aspecto: valor-de-uso e
+valor-de-troca. Vimos em seguida que todas as características que qualificam o trabalho enquanto
+produtor de valores-de-uso desaparecem quando ele se exprime no valor propriamente dito. Este
+duplo carácter do trabalho consubstanciado na mercadoria foi posto em relevo, pela primeira vez,
+por mim 11. Como a economia política gira à volta deste ponto, precisamos de analisá-lo mais
+detalhadamente.
+Tomemos duas mercadorias, por exemplo, um fato e 10 metros de tecido; admitindo que a primeira
+tinha o dobro do valor da segunda, então se 10 metros de tecido = x, o fato = 2 x.
+O fato é um valor-de-uso que satisfaz uma necessidade particular. Resulta de um género particular
+de actividade produtiva, determinada pelo seu fim, modo de operação, objecto, meios e resultado.
+Ao trabalho que se manifesta na utilidade ou valor-de-uso do seu produto chamamos nós, muito
+simplesmente, trabalho útil. Sob este ponto de vista, ele é sempre considerado com referência à
+sua utilidade prática. Assim como o fato e o tecido são duas coisas úteis diferentes, [valores-de-uso
+qualitativamente distintos,] também o trabalho do alfaiate que faz o fato se distingue
+[qualitativamente] do trabalho do tecelão que faz o tecido. Se estes objectos não fossem valores-
+de-uso de qualidade diferente e, portanto, produtos de trabalhos úteis de qualidade diversa, não
+poderiam contrapor-se como mercadorias. Não se troca um fato por um fato igual, um valor-de-uso
+pelo mesmo valor-de-uso.
+Ao conjunto dos valores-de-uso de todas as espécies corresponde um conjunto de trabalhos úteis
+igualmente diversos, conforme o género, a espécie, a variedade - uma divisão social do trabalho.
+Esta é condição de existência da produção de mercadorias, embora reciprocamente a produção de
+mercadorias não seja condição de existência da divisão social do trabalho. Nas antigas
+comunidades da Índia, o trabalho encontra-se socialmente dividido sem que por isso os produtos
+se tornem mercadorias. Ou, tomando um exemplo mais familiar, em cada fábrica existe uma
+divisão sistemática do trabalho, mas a essa divisão não corresponde a troca, entre os
+trabalhadores, dos seus produtos individuais. Somente os produtos de trabalhos privados
+[,autónomos] e independentes uns dos outros se apresentam uns perante os outros como
+mercadorias, reciprocamente permutáveis.
+Em suma: o valor-de-uso de cada mercadoria contém um trabalho útil especial ou provém de uma
+actividade produtiva que responde a um fim particular. Não se podem contrapor valores-de-uso
+como mercadorias a não ser que contenham trabalhos úteis de diferente qualidade. Numa
+sociedade em que os produtos assumem em geral a forma de mercadoria, isto é, numa sociedade
+de produtores de mercadorias, a diferença entre os diversos géneros de trabalho útil, executados
+independentemente uns dos outros como assunto particular de produtores autónomos, conduz a
+um sistema multi-ramificado, a uma divisão social do trabalho.
+De resto, é totalmente indiferente para o fato ser usado pelo alfaiate ou por um dos seus clientes;
+em ambos os casos, serve de valor-de-uso. A relação entre o fato e o trabalho que o produz
+também não se altera absolutamente em nada pelo facto de a sua confecção constituir uma
+profissão particular, um elo da divisão social do trabalho. Desde que a necessidade de se vestir a
+isso o forçou, o homem confeccionou vestuário durante milhares de anos, antes que alguém se
+tornasse alfaiate. Mas a existência do tecido ou fato, ou de qualquer elemento da riqueza material
+não fornecida pela natureza, sempre pressupôs um trabalho produtivo especial destinado a adaptar
+as matérias naturais às necessidades humanas. O trabalho enquanto produtor de valores-de-uso,
+enquanto trabalho útil, é, independentemente das formas de sociedade, condição da existência do
+homem, uma necessidade eterna, o mediador da circulação material entre a natureza e o homem
+[,isto é, da vida humana].
+Os valores-de-uso tecido, fato, etc. - isto é, os corpos das mercadorias - são combinações de dois
+elementos, matéria e trabalho. Se lhes retirarmos a soma total dos diversos trabalhos úteis que
+contêm, sempre resta um resíduo material, qualquer coisa fornecida pela natureza e que nada deve
+ao homem.
+Ao produzir, o homem só pode agir tal como a própria natureza; quer dizer, ele apenas podemodificar as formas da matéria.12 Mais: nessa obra de simples transformação, ele é ainda
+constantemente coadjuvado pelas forças naturais. O trabalho não é, portanto, a única fonte dos
+valores-de-uso que produz, da riqueza material. Ele é o pai e a terra a mãe, como diz William Petty.
+Deixemos agora a mercadoria enquanto objecto útil e voltemos ao seu valor. Segundo a nossa
+hipótese, o fato vale o dobro do tecido. Todavia, trata-se apenas de uma diferença quantitativa que,
+de momento, não nos interessa. Note-se, pois, que se 1 fato é igual a duas vezes 10 metros de
+tecido, 20 metros de tecido são iguais a 1 fato. Enquanto valores, o fato e o tecido são coisas da
+mesma substância, expressões objectivas de um trabalho idêntico. Mas a confecção dos fatos e a
+tecelagem são trabalhos [qualitativamente] diferentes. Existem, contudo, situações sociais em que
+a mesma pessoa é alternadamente alfaiate e tecelão, em que, portanto, estas duas espécies de
+trabalho são simples modalidades do trabalho de um mesmo indivíduo, e não funções fixas de
+indivíduos diferentes, tal como o fato que o nosso alfaiate faz hoje e as calças que fará amanhã são
+apenas variações do mesmo trabalho individual. Um simples olhar mostra ainda que, na nossa
+sociedade capitalista, de acordo com as flutuações da procura de trabalho, uma dada porção de
+trabalho humano é fornecida ora sob a forma de confecção de vestuário, ora sob a forma de
+tecelagem. É possível que essas variações da forma do trabalho não possam efectuar-se sem
+atritos; contudo, elas são inevitáveis.
+Em última análise, se abstrairmos do seu carácter útil, toda a actividade produtiva é apenas um
+dispêndio de força humana. A confecção do vestuário e a tecelagem, apesar da sua diferença
+[qualitativa], são ambas um dispêndio produtivo de cérebro, músculos, nervos, mãos do homem e,
+neste sentido, trabalho humano. [Trata-se apenas de duas formas diferentes de dispender trabalho
+humano.]
+Sem dúvida, a força humana de trabalho, que não faz mais que mudar de forma nas diversas
+actividades produtivas, tem de estar mais ou menos desenvolvida para poder ser dispendida sob
+esta ou aquela forma. Mas o valor das mercadorias representa simplesmente trabalho do homem,
+um dispêndio de força humana em geral. Ora, tal como na sociedade civil um general ou um
+banqueiro desempenham um grande papel, enquanto que ao homem vulgar cabem apenas
+funções secundárias 13, o mesmo se passa com o trabalho humano: é um dispêndio da força de
+trabalho simples que [,em média,] todo o homem comum, sem desenvolvimento especial, possui no
+seu organismo. É certo que o trabalho simples médio muda de carácter conforme as regiões e as
+épocas, mas numa dada sociedade é sempre determinado. O trabalho complexo (skilled labour,
+trabalho qualificado) é apenas trabalho simples potenciado, ou melhor, multiplicado, de modo que
+uma dada quantidade de trabalho complexo corresponde a uma quantidade maior de trabalho
+simples. A experiência mostra que esta redução se faz constantemente. Mesmo quando uma
+mercadoria é produto do trabalho mais complexo, o seu valor equipara-a numa proporção qualquer
+ao produto de um trabalho simples, representando, portanto, apenas uma quantidade determinada
+de trabalho simples 14. As diversas proporções segundo as quais as diferentes espécies de
+trabalho são reduzidas ao trabalho simples, como sua unidade de medida, estabelecem-se na
+sociedade sem que os produtores disso se apercebam, parecendo-lhes portanto estabelecidas pelo
+costume. Daí resulta que, na análise do valor, todas as variedades de força de trabalho devem ser
+consideradas como força de trabalho simples. [11]
+Portanto, do mesmo modo que nos valores tecido e fato se abstrai da diferença dos seus valores-
+de-uso, igualmente se abstrai, no trabalho que estes valores representam, da diferença das suas
+formas úteis: confecção e tecelagem. E tal como os valores-de-uso tecido e fato são combinações
+de actividades produtivas especiais com o fio e a fazenda, enquanto que, ao invés, os valores
+destas coisas são meras cristalizações de um trabalho idêntico -, assim também os trabalhos
+contidos nesses valores relevam, não pela sua relação produtiva com o fio e a fazenda, mas
+apenas como um dispêndio da mesma força [ de trabalho] humana. A tecelagem e a confecção
+criam o tecido e o fato [como valores-de-uso] precisamente porque têm qualidades diferentes; mas
+[a substância de] os valores do fato e do tecido, criam-na apenas na medida em que possuem uma
+qualidade comum: a qualidade de trabalho humano.
+Contudo, o fato e o tecido não são apenas valores em geral, mas valores de uma grandeza
+determinada; e, de acordo, com a nossa hipótese, 1 fato vale o dobro de 10 metros de tecido.
+Como se explica esta diferença? A explicação está no facto de o tecido conter apenas metade do
+trabalho do fato, de modo que, para a produção deste último, a força de trabalho deve ser
+dispendida durante o dobro do tempo exigido pela produção do primeiro.
+Se, portanto, quanto ao valor-de-uso, o trabalho contido na mercadoria apenas é relevante
+qualitativamente, já no que se refere à grandeza do valor, ele apenas releva quantitativamente[uma vez que já foi reduzido a trabalho humano puro e simples]. No primeiro caso, trata-se de
+saber como se processa o trabalho e o que é que produz; no segundo, trata-se de saber a
+quantidade, a sua duração. Como a grandeza de valor de uma mercadoria representa apenas a
+quantidade de trabalho nela contido, daí resulta que todas as mercadorias, numa certa proporção,
+devem ter sempre valores da mesma grandeza.
+Se a força produtiva, por ex., de todos os trabalhos úteis exigidos pela confecção de um fato,
+permanecer constante, então a grandeza do valor dos fatos aumenta com o seu número. Se 1 fato
+representa x dias de trabalho, 2 fatos representarão 2x, e assim por diante. Mas admitamos que a
+duração do trabalho necessário à produção de 1 fato aumente para o dobro, ou se reduza a
+metade; no primeiro caso, 1 fato passa a ter tanto valor como anteriormente 2, e no segundo, 2
+fatos passam a ter apenas o valor de 1, embora em ambos os casos o fato continue a prestar os
+mesmos serviços e o trabalho útil nele contido continue a ser da mesma qualidade. Mas a
+quantidade de trabalho gasto na sua produção, essa não permanece a mesma.
+Uma quantidade maior de valores-de-uso constitui, evidentemente, uma maior riqueza material;
+com dois fatos podem vestir-se dois homens, com um fato, apenas um; etc. Todavia, a um
+acréscimo da massa da riqueza material pode corresponder um decréscimo simultâneo do seu
+valor. Este movimento contraditório deriva do duplo carácter do trabalho. A eficácia de um trabalho
+útil, num certo espaço de tempo, depende da sua força produtiva ou produtividade [12]. Por isso, o
+trabalho útil torna-se uma fonte mais ou menos abundante de produtos na razão directa do
+aumento ou da diminuição da sua força produtiva. Pelo contrário, uma variação desta força não
+afecta nunca directamente o trabalho representado no valor. Uma vez que a força produtiva
+pertence ao trabalho concreto e útil, já não poderá afectar o trabalho desde que se abstraia dessa
+forma concreta e útil. Quaisquer que sejam as variações da sua força produtiva, o mesmo trabalho,
+no mesmo tempo, produz sempre o mesmo valor. Porém, num mesmo espaço de tempo, o mesmo
+trabalho produz mais valores-de-uso se aumentar a sua força produtiva, e menos se ela diminuir.
+Qualquer variação da força produtiva que aumente a fecundidade do trabalho e, por conseguinte, a
+massa dos valores-de-uso por ele produzidos, faz também diminuir o valor dessa massa assim
+aumentada, se reduzir o tempo total de trabalho necessário à sua produção. E vice-versa.
+Das considerações precedentes, resulta que, embora se não possa falar propriamente em duas
+espécies de trabalho na mercadoria, todavia o mesmo trabalho apresenta-se nela sob dois
+aspectos opostos, conforme se reporte ao valor-de-uso da mercadoria, como seu produto, ou ao
+valor dessa mercadoria, como sua pura expressão objectiva. Todo o trabalho é, por um lado,
+dispêndio, no sentido fisiológico, de força humana, e é nesta qualidade de trabalho igual,
+[abstracto,] que ele constitui o valor das mercadorias. Todo o trabalho é, por outro lado, dispêndio
+da força humana sob esta ou aquela forma produtiva, determinada por um objectivo particular, e é
+nessa qualidade de trabalho concreto e útil que ele produz valores-de-uso ou utilidades. Tal como a
+mercadoria tem, antes de tudo, de ser uma utilidade para ser um valor, assim também o trabalho
+tem de ser, antes de tudo, útil, para ser considerado dispêndio de força humana, trabalho humano,
+no sentido abstracto do termo.15
+Estão agora determinados a substância do valor e a grandeza de valor. Resta analisar a forma do
+valor.
+Início da página
+Seção 3
+A Forma do Valor [ou o valor-de-troca]
+As mercadorias vêm ao mundo sob a forma de valores-de-uso ou de objectos-mercadorias, tais
+como ferro, tecido, lã, etc. É essa, precisamente, a sua forma natural [,vulgar]. Todavia, só são
+mercadorias na medida em que se apresentam sob um duplo aspecto: como objectos de uso e
+como suportes de valor. Só podem, portanto, entrar em circulação [ como mercadorias ou sob a
+forma de mercadorias], na medida em que se apresentem sob uma dupla forma: a sua forma
+natural e a sua forma-valor.
+A realidade do valor das mercadorias distingue-se da amiga de Falstaff, a viúva Quickly, pelo factode não sabermos onde agarrá-la [13]. Em flagrante contraste com a materialidade palpável da
+mercadoria, não existe um único átomo de matéria que entre no seu valor. Podemos, pois, dar
+voltas e mais voltas a uma certa mercadoria: enquanto objecto de valor, ela permanecerá
+inapreensível. No entanto, se nos recordarmos que as mercadorias só possuem valor enquanto são
+expressão da mesma unidade social - trabalho humano -, que, portanto, o valor das mercadorias é
+uma realidade puramente social, torna-se evidente que essa realidade social também só se pode
+manifestar nas transacções sociais, nas relações das mercadorias umas com as outras. De facto,
+partimos do valor-de-troca ou da relação de troca das mercadorias para chegar ao seu valor, aí
+escondido. Temos agora de voltar a essa forma de manifestação do valor.
+Toda a gente sabe, mesmo quando não se sabe mais nada, que as mercadorias possuem uma
+particular forma-valor [comum,] que contrasta da maneira mais flagrante com as suas múltiplas
+formas naturais - é a forma-dinheiro. Importa agora fazer o que a economia burguesa nunca tentou:
+fornecer a génese da forma-dinheiro, ou seja, seguir o desenvolvimento da expressão do valor
+contida na relação de valor das mercadorias, desde o seu esboço mais simples e menos aparente
+até essa forma-dinheiro que salta aos olhos de toda a gente. Com isso se resolve e se faz
+desaparecer ao mesmo tempo o enigma do dinheiro.
+Em geral, a única relação entre as mercadorias é uma relação de valor, e a mais simples relação
+de valor é, evidentemente, a relação de uma mercadoria com outra qualquer mercadoria de
+espécie diferente. A relação de valor ou de troca de duas mercadorias fornece, portanto, a uma
+mercadoria, a expressão mais simples do seu valor.
+A - Forma simples, [singular] ou acidental do valor
+x da mercadoria A = y da mercadoria B, ou x da mercadoria A vale y da mercadoria B. (20 metros
+de tecido = l fato, ou 20 metros de tecido valem 1 fato).
+O mistério de qualquer forma-valor esconde-se nesta forma simples. É portanto na sua análise que
+se encontra a dificuldade.
+1. Os dois pólos da expressão do valor: a forma relativa e a forma de equivalente
+Duas mercadorias diferentes, A e B (no exemplo que escolhemos: o tecido e o fato) desempenham
+aqui, evidentemente, dois papéis distintos. O tecido exprime o seu valor no fato e este fornece a
+matéria dessa expressão. A primeira mercadoria desempenha um papel activo, a segunda um
+papel passivo. O valor da primeira apresenta-se como valor relativo [,encontra-se sob a forma
+relativa do valor]. A segunda mercadoria funciona como equivalente [,encontra-se sob a forma de
+equivalente].
+A forma relativa e a forma de equivalente são dois aspectos correlativos, inseparáveis, [ que se
+condicionam mutuamente,] mas ao mesmo tempo são extremos opostos, que se excluem
+mutuamente, isto é, pólos da mesma expressão de valor. Essas duas formas distribuem-se sempre
+pelas diversas mercadorias que a expressão do valor relaciona mutuamente. [Não posso, por
+exemplo, expressar o valor do tecido em tecido.] A equação: 20 metros de tecido = 20 metros de
+tecido [não é nenhuma expressão de valor], significa somente que 20 metros de tecido são
+precisamente a mesma coisa que 20 metros de tecido, quer dizer, não são mais que uma certa
+soma de um valor-de-uso: tecido. O valor do tecido só pode, portanto, exprimir-se relativamente,
+isto é, numa outra mercadoria. A forma-valor relativa do tecido pressupõe, portanto, que uma outra
+mercadoria qualquer se encontre em face dele sob forma de equivalente. Por outro lado, a
+mercadoria que figure como equivalente não pode encontrar-se ao mesmo tempo, sob forma-valor
+relativa. Não é ela que exprime o seu valor; apenas fornece a matéria para a expressão do valor da
+outra mercadoria.
+É certo que a expressão 20 metros de tecido = 1 fato ou 20 metros de tecido valem 1 fato, contém
+a recíproca: 1 fato = 20 metros de tecido ou 1 fato vale 20 metros de tecido. Mas então torna-se
+necessário inverter a equação para exprimir relativamente o valor do fato, e nesse caso o tecido
+torna-se equivalente em seu lugar. Uma mesma mercadoria não pode, portanto, revestir
+simultaneamente estas duas formas na mesma expressão de valor. Estas duas formas excluem-se
+como dois pólos.
+[Ora, a questão de saber se uma mercadoria se encontra sob a forma-valor relativa ou sob a forma
+oposta, a forma-equivalente, depende exclusivamente da sua posição em cada caso na expressãodo valor: se é a mercadoria cujo valor se exprime, ou antes a mercadoria na qual se exprime o
+valor.]
+2. A forma relativa do valor
+a) Conteúdo desta forma
+Para descobrir como a expressão simples do valor de uma mercadoria está contida na relação de
+valor de duas mercadorias, é preciso primeiramente examiná-la, abstraindo [ completamente] do
+seu lado quantitativo. Em geral faz-se o contrário, considerando na relação de valor exclusivamente
+a proporção em que se equivalem quantidades determinadas de duas espécies de mercadorias.
+Esquece-se que coisas diferentes só podem ser comparadas quantitativamente depois de
+reduzidas à mesma unidade. Somente então têm o mesmo denominador e se tornam grandezas
+comensuráveis.16
+Que 20 metros de tecido = 1 fato, ou = 20 fatos, ou = x fatos, - isto é, que uma dada quantidade de
+tecido valha mais ou menos fatos -, qualquer dessas proporções implica sempre que o fato e o
+tecido, como grandezas de valor, são expressões da mesma unidade [,coisas da mesma
+natureza] .Tecido = fato, eis o fundamento da equação.
+Mas as duas mercadorias, assim equiparadas na sua qualidade e na sua essência, não
+desempenham o mesmo papel. Só o valor do tecido é que se encontra aí expresso. E como?
+Relacionando-o com uma mercadoria de espécie diferente, o fato, como seu equivalente, isto é,
+algo que pode substituí-lo ou é permutável com ele. É desde logo evidente que nesta relação o fato
+aparece exclusivamente como forma de existência do valor, [como coisa-valor,] pois [só nessa
+qualidade é que ele é o mesmo que o tecido,] só exprimindo valor é que ele pode figurar como
+valor em face de uma outra mercadoria. Por outro lado, a própria propriedade de valor do tecido
+revela-se aqui ou adquire aqui uma expressão distinta. Com efeito, poderia o valor fato ser posto
+em equação com o tecido ou servir-lhe de equivalente, se o tecido não fosse também valor?
+Podemos ir buscar uma analogia à química. O ácido butírico e o formiato de propileno são dois
+corpos diferentes, não só na aparência como também nas qualidades físicas e químicas. Contudo,
+são compostos pelos mesmos elementos: carbono, hidrogénio e oxigénio. Além disso, contêm-nos
+na mesma proporção: C4H8O2. Se agora equacionássemos o formiato de propileno com o ácido
+butírico ou se o constituíssemos, em seu equivalente, o formiato de propileno figuraria nesta
+relação apenas como forma de existência de C4H8O2, ou seja, da substância que é comum a si e
+ao ácido. Uma equação em que o formiato de propileno desempenhasse o papel de equivalente do
+ácido butírico seria, portanto, uma maneira um tanto canhestra de expressar a substância do ácido
+como qualquer coisa completamente distinta da sua forma corpórea.
+Se dizemos: enquanto valores todas as mercadorias são apenas trabalho humano cristalizado,
+então estamos a reduzi-las a uma abstracção - valor -, mas elas continuam a possuir apenas uma
+forma, a sua forma natural de objectos úteis. [Não lhes damos portanto uma forma-valor distinta
+das suas formas naturais.] Coisa completamente diversa se passa quando se põe uma mercadoria
+em relação de valor com uma outra. Nesse caso, o seu carácter de valor sobressai, afirmando-se
+como propriedade inerente que determina a sua relação com a outra mercadoria.
+Ao considerar-se o fato como equivalente do tecido, considera-se o trabalho contido no fato
+idêntico ao trabalho contido no tecido. É certo que a confecção do fato se distingue da tecelagem.
+Mas a sua equiparação à tecelagem recondu-la àquilo que ambas têm de realmente comum, ao
+seu carácter de trabalho humano. É uma maneira indirecta de dizer que a tecelagem, na medida
+em que tece valor, em nada se distingue da confecção de vestuário, isto é, é trabalho humano
+abstracto. Esta equiparação exprime, portanto, o carácter específico do trabalho que constitui o
+valor do tecido. [Somente a expressão de equivalência de mercadorias distintas põe em relevo o
+carácter específico do trabalho que cria valor, dado que ela reduz os diferentes trabalhos
+incorporados nas diversas mercadorias àquilo que têm efectivamente de comum: trabalho humano
+em geral. 16a]
+Todavia, não basta exprimir o carácter específico do trabalho que constitui o valor do tecido. A força
+de trabalho humano em acção, ou o trabalho humano, cria o valor, mas não é valor. Só se torna
+valor quando cristalizado sob a forma de objecto. Deste modo, as condições que é necessário
+preencher para exprimir o valor do tecido parecem contradizer-se. Por um lado, é preciso
+representá-lo como uma pura condensação de trabalho humano abstracto, pois que, enquantovalor, a mercadoria não tem outra realidade. Ao mesmo tempo, esta condensação deve revestir a
+forma de um objecto claramente distinto do próprio tecido mas que, ao mesmo tempo, seja comum
+a ele e às outras mercadorias. Este problema já está, porém, resolvido.
+Vimos, com efeito, que a partir do momento em que é considerado como equivalente do tecido, o
+fato deixa de ter necessidade de etiqueta para afirmar o seu carácter de valor. Nessa função, a sua
+própria forma de existência é uma forma de existência do valor [16]. No entanto, o fato, o corpo da
+mercadoria fato, é apenas um simples valor-de-uso; tal como a primeira peça de tecido, tão pouco
+o fato exprime valor. Isto prova, simplesmente, que ele significa mais na relação de valor do tecido
+do que fora dela; tal como tantas pessoas que são mais importantes dentro de um fato agaloado do
+que fora dele.
+Na produção do fato, foi realmente dispendida força [de trabalho] humana, sob uma forma
+particular: nele está acumulado, portanto, trabalho humano. Sob este ponto de vista, o fato é
+suporte de valor, embora não deixe perceber esta sua qualidade através da transparência dos seus
+fios, por mais gasto que esteja. E na relação de valor do tecido, ele não significa outra coisa [:valor
+corporizado, encarnação do valor]. Apesar do seu exterior tão bem abotoado, o tecido reconheceu
+nele uma alma gémea cheia de valor. É o lado platónico da questão. Na realidade, o fato não pode,
+de modo algum, representar valor, nas suas relações com o tecido, sem que ao mesmo tempo o
+valor tome a figura de um fato. Da mesma maneira, o indivíduo A não poderá apresentar-se
+perante o indivíduo B como majestade, sem que a majestade revista imediatamente aos olhos de B
+a figura física de A; provavelmente é por isso que essa figura muda de cara, de cabelos e de
+muitas coisas, com cada novo pai-do-povo.
+Na relação na qual o fato é o equivalente do tecido, a forma fato surge, portanto, como forma-valor
+do tecido, ou exprime o valor do tecido no valor-de-uso do fato. Enquanto valor-de-uso, o tecido é
+um objecto sensivelmente diferente do fato; enquanto valor, é uma coisa igual ao fato e tem o seu
+aspecto, como o prova claramente a equivalência do fato com ele. [Assim o tecido adquire uma
+forma-valor distinta da sua forma natural.] A sua propriedade de valor manifesta-se na sua
+igualdade com o fato, tal como a natureza de carneiro do cristão na sua semelhança com o
+cordeiro de Deus.
+Como se vê, tudo o que a análise do valor anteriormente nos havia revelado, di-lo o próprio tecido,
+ao entrar em contacto com uma outra mercadoria, o fato. Somente que ele só trai os seus
+pensamentos na linguagem que lhe é familiar, a linguagem das mercadorias. Para revelar que o
+seu valor provém do trabalho, na sua qualidade abstracta de trabalho humano, ele diz que o fato,
+na medida em que vale tanto como ele, isto é, enquanto valor, se compõe do mesmo trabalho que
+o produziu a si próprio. Para revelar que a sua realidade etérea como valor é distinta da sua
+tessitura material, ele diz que o valor tem a figura de um fato e que, por isso, ele próprio, como
+coisa valiosa, se parece com o fato, como um ovo com outro. Notemos de passagem, que a
+linguagem das mercadorias possui, além do hebraico, muitos outros dialectos mais ou menos
+correctos. A palavra alemã Wertsein, por exemplo, exprime menos nitidamente do que os verbos
+românicos valere, valoir e valer, que a equiparação da mercadoria B com a mercadoria A é
+precisamente a expressão do valor de A. Paris vaut bien une messe.[17]
+Em virtude da relação de valor, a forma natural da mercadoria B torna-se a forma-valor da
+mercadoria A, ou melhor, o corpo de B torna-se no espelho do valor de A.17 O valor da mercadoria
+A, assim expresso no valor-de-uso da mercadoria B, adquire a forma-valor relativa.
+b) Determinação quantitativa da forma-valor relativa
+Qualquer mercadoria, cujo valor haja de ser expresso, é uma certa quantidade de uma coisa útil
+(por exemplo, quinze alqueires de trigo, cem libras de café, etc.), que contém uma quantidade
+determinada de trabalho. A forma-valor tem de exprimir, portanto, não somente valor em geral, mas
+um valor de uma certa grandeza. Na relação de valor da mercadoria A com a mercadoria B, a
+mercadoria B é equiparada a A não somente sob o ponto de vista da qualidade, mas ainda sob o
+ponto de vista da quantidade: uma certa quantidade de B equivale a uma certa quantidade de A.
+A equação 20 metros de tecido = 1 fato, ou 20 metros de tecido valem 1 fato, pressupõe que as
+duas mercadorias [contêm a mesma substância de valor, que] custam ambas o mesmo trabalho ou
+se produzem no mesmo tempo; mas esse tempo de trabalho necessário à sua produção varia com
+cada variação da força produtiva do trabalho que as produz. Vejamos agora a influência destas
+variações sobre a expressão relativa da grandeza de valor.I - O valor do tecido varia enquanto que o valor do fato permanece constante.18 Se duplicar o
+tempo de trabalho necessário à produção do tecido, em consequência, por hipótese, de um menor
+rendimento do solo que produz o linho, nesse caso duplica o seu valor. Em vez de 20 metros de
+tecido = 1fato, teríamos: 20 metros de tecido = 2 fatos, uma vez que 1 fato contém agora apenas
+metade do tempo de trabalho contido em 20 metros de tecido. Se, pelo contrário, o tempo
+necessário à produção do tecido diminuir para metade, em consequência, por hipótese, de um
+aperfeiçoamento dos teares, nesse caso o seu valor diminui na mesma proporção. Então teríamos:
+20 metros de tecido = 1/2 fato. Por conseguinte, o valor relativo da mercadoria A, ou seja, o seu
+valor expresso na mercadoria B, sobe ou desce, na razão directa da variação do valor da
+mercadoria A, se o valor da mercadoria B permanecer constante.
+II - O valor do tecido permanece constante, variando o valor do fato. Se o tempo de trabalho
+necessário à produção do fato duplica, em consequência, por hipótese, de uma baixa na produção
+da lã, em vez de 20 metros de tecido = 1 fato, teremos agora: 20 metros de tecido = 1/2 fato. Se,
+pelo contrário, o valor do fato se reduz a metade, então teremos: 20 metros de tecido = 2 fatos.
+Permanecendo constante o valor da mercadoria A, o seu valor relativo, expresso na mercadoria B,
+sobe ou desce na razão inversa das variações de valor de B.
+Se compararmos os diversos casos compreendidos em I e II, constata-se que a mesma mudança
+de grandeza do valor relativo pode resultar de causas completamente opostas. Assim, a equação
+20 metros de tecido= 1 fato transforma-se em 20 metros de tecido = 2 fatos, quer porque o valor do
+tecido duplicou, quer porque o valor dos fatos se reduziu a metade; e transforma-se em 20 metros
+de tecido = 1/2 fato, quer porque o valor do tecido se reduziu a metade, quer porque o valor do fato
+duplicou.
+III - As quantidades de trabalho necessárias à produção do tecido e do fato variam
+simultaneamente, no mesmo sentido e na mesma proporção. Neste caso, permanece a equação
+20 metros de tecido = 1 fato, quaisquer que sejam as suas variações de valor. Descobrem-se estas
+variações por comparação com uma terceira mercadoria cujo valor permaneça constante. Se os
+valores de todas as mercadorias aumentassem ou diminuíssem e na mesma proporção, os seus
+valores relativos não sofreriam qualquer variação. A sua mudança real de valor reconhecer-se-ia
+pelo facto de, num mesmo tempo de trabalho, se produzir em geral uma quantidade de
+mercadorias maior ou menor que anteriormente.
+IV - Os tempos de trabalho necessários à produção do tecido e do fato, assim como os seus
+valores, podem variar simultaneamente e no mesmo sentido, mas numa proporção diferente, ou
+num sentido oposto, etc. A influência de todas as possíveis combinações deste género sobre o
+valor relativo de uma mercadoria calcula-se facilmente recorrendo aos casos I, II e III.
+Como se vê, mudanças reais na grandeza do valor não se reflectem nem claramente nem
+completamente na sua expressão relativa [ou na grandeza do valor relativo]. O valor relativo de
+uma mercadoria pode variar, embora o seu valor permaneça constante; pode permanecer
+constante, embora o seu valor varie; e, finalmente, podem verificar-se variações simultâneas da
+grandeza de valor e da sua expressão relativa sem que ,exista correspondência entre elas.19
+3. A forma de equivalente e suas particularidades
+Já vimos que, ao mesmo tempo que uma mercadoria A (o tecido) exprime o seu valor no valor-de-
+uso de uma mercadoria diferente, B (o fato), ela imprime a esta última uma forma-valor particular, a
+de equivalente. O tecido manifesta o seu próprio carácter de valor mediante a sua equiparação com
+uma outra mercadoria, o fato, tal qual existe na sua forma natural [,isto é, sem adquirir uma forma-
+valor distinta da sua forma corpórea]. Ele expressa, portanto, o seu próprio carácter de valor no
+facto de uma outra mercadoria, o fato, ser imediatamente permutável com ele.
+Enquanto valores, todas as mercadorias são expressão igual de uma mesma unidade, o trabalho
+humano, substituíveis umas pelas outras. Uma mercadoria é, por conseguinte, permutável por uma
+outra mercadoria, desde que possua uma forma que a faça aparecer como valor.
+Uma mercadoria é imediatamente permutável por qualquer outra de que seja equivalente, isto é, o
+lugar que ocupa na relação de valor faz da sua forma natural a forma-valor da outra mercadoria.
+Não precisa revestir uma forma diferente da sua forma natural para se manifestar como valor à
+outra mercadoria, para valer como tal e, portanto, para ser permutável com ela. A forma de
+equivalente de uma mercadoria é, portanto, a forma sob a qual ela é imediatamente permutável
+com uma outra.Quando uma mercadoria, fatos por exemplo, serve de equivalente a uma outra mercadoria, tal
+como o tecido, adquirindo assim a propriedade característica de ser imediatamente permutável com
+ela, não fica com isso de modo algum determinada a proporção em que esta troca se pode
+efectuar. Sendo dada a grandeza do valor do tecido, a proporção dependerá da grandeza do valor
+dos fatos. Quer o fato figure como equivalente na relação de valor e o tecido como valor relativo,
+quer se verifique a inversa, a proporção em que se faz a troca permanece a mesma. A grandeza de
+valor respectiva das duas mercadorias, medida pela duração comparativa do trabalho necessário à
+sua produção, é, portanto, uma determinação completamente independente da forma-valor.
+A mercadoria cujo valor se encontra sob a forma relativa é sempre expressa como grandeza de
+valor, enquanto que, pelo contrário, o mesmo nunca se passa com o equivalente, que figura
+sempre na equação como simples quantidade de uma coisa útil. Quarenta metros de tecido, por
+exemplo, valem o quê? Dois fatos. Desempenhando aqui a mercadoria fato o papel de equivalente,
+fornecendo o seu valor-de-uso um corpo ao valor do tecido, basta uma certa quantidade de fatos
+para exprimir uma determinada quantidade de valor de tecido. Portanto, 2 fatos podem exprimir a
+grandeza de valor de 40 metros de tecido, mas jamais podem exprimir a sua própria grandeza de
+valor. A observação superficial deste facto - que na equação do valor, o equivalente figura sempre
+como simples quantidade de um objecto útil - induziu em erro S. Bailey, bem como muitos
+economistas antes e depois dele: consideram na expressão do valor apenas uma relação
+quantitativa. Ora, sob a forma de equivalente, uma mercadoria figura como simples quantidade de
+uma matéria qualquer, precisamente porque a quantidade do seu valor não é expressa.
+As contradições contidas na forma de equivalente exigem agora um exame mais aprofundado das
+suas particularidades.
+Primeira particularidade da forma de equivalente: O valor-de-uso torna-se a forma de manifestação
+do seu contrário, o valor.
+A forma natural das mercadorias torna-se a sua forma-valor. Note-se, porém, que este quid pro quo
+só ocorre com uma mercadoria B (fato, trigo, ferro, etc.) nos limites da relação de valor que com ela
+estabelece uma outra mercadoria A (tecido, etc.), e somente nesses limites. Isoladamente
+considerado, o fato, por exemplo, é apenas um objecto útil, um valor-de-uso, exactamente como o
+tecido; a sua forma é apenas a forma natural de um género particular de mercadoria. Mas como
+nenhuma mercadoria se pode relacionar consigo mesma como equivalente, não podendo portanto
+fazer da sua forma natural a expressão do seu próprio valor, ela tem necessariamente de tomar
+como equivalente uma outra mercadoria, cujo valor-de-uso lhe serve, assim, de forma-valor [,ou
+fazer da forma natural de uma outra mercadoria a sua própria forma-valor].
+Podemos ilustrar isto recorrendo ao exemplo de uma medida aplicável às mercadorias na sua
+qualidade material, isto é, enquanto valores-de-uso. Um pão-de-açúcar, sendo um corpo, é pesado,
+mas é impossível ver ou sentir o seu peso. Tomemos agora diversos pedaços de ferro de peso pré-
+determinado. Considerada em si mesma, a forma material do ferro é tão pouco uma forma de
+manifestação do peso como a do pão-de-açúcar. Todavia, para expressar que este último é
+pesado, colocámo-lo numa relação de peso com o ferro. Nesta relação o ferro é considerado como
+um corpo que apenas representa peso. As quantidades de ferro usadas para medir o peso do
+açúcar representam, portanto, em face da matéria açúcar, uma simples forma, a forma sob a qual o
+peso se manifesta. O ferro só pode desempenhar este papel na medida em que o açúcar, ou
+qualquer outro corpo, cujo peso se quer achar, é posto em relação com ele sob este ponto de vista.
+Se os dois objectos não fossem pesados, não seria possível entre eles nenhuma relação desta
+espécie, não podendo, de modo algum, um deles servir de expressão ao peso do outro. Se os
+pusermos a ambos numa balança veremos que, como peso, são efectivamente a mesma coisa,
+tendo portanto, numa determinada proporção, o mesmo peso. Tal como o matéria ferro, como
+medida de peso, representa em face de um pão-de-açúcar apenas peso, assim também na nossa
+expressão de valor, a matéria fato representa, em face do tecido, apenas valor.
+Cessa aqui, porém, a analogia. O ferro, na expressão de peso do pão-de-açúcar, representa uma
+propriedade natural comum às duas matérias - o seu peso -, enquanto o fato, na expressão de
+valor do tecido, representa uma propriedade sobrenatural dos dois objectos - o seu valor, algo de
+puramente social.
+Dado que a forma-valor relativa exprime o carácter de valor de uma mercadoria, do pano por
+exemplo, como qualquer coisa de completamente diferente do seu próprio corpo, e das suas
+propriedades, como qualquer coisa de parecido com um fato, por exemplo, esta expressão deixa
+entender que nela se esconde uma relação social.O inverso se passa com a forma de equivalente. Ela consiste precisamente em que um objecto
+material, um fato por exemplo, uma mercadoria tal como se apresenta em concreto exprime valor e,
+por conseguinte, possui naturalmente forma de valor. É certo que isto só é verdadeiro [ dentro da
+relação de valor , isto é,] na medida em que uma mercadoria, como o tecido, se relaciona com ele
+como equivalente.20 Mas, tal como as propriedades materiais de uma coisa não têm a sua origem
+nas suas relações exteriores com outras coisas, antes, se limitam a confirmarem-se nelas, assim
+também o fato parece retirar da natureza e não da relação de valor com o tecido a sua forma de
+equivalente, a sua propriedade de ser imediatamente permutável, tal como acontece com a sua
+propriedade de ser pesado ou de reter calor. Daí o aspecto enigmático da forma de equivalente,
+aspecto que só fere a atenção deformada do economista burguês quando esta forma se lhe
+apresenta já acabada, como dinheiro. Para dissipar este carácter místico da prata e do ouro,
+procura então substituí-las surrateiramente por mercadorias menos brilhantes; faz e refaz com um
+prazer sempre renovado o catálogo de todos os artigos que a seu tempo desempenharam o papel
+de equivalente. Ele não se apercebe que a expressão mais simples do valor, como 20 metros de
+pano valem 1 fato, contém já o enigma, e que é sob esta forma simples que deve procurar resolvê-
+lo.
+Segunda particularidade da forma de equivalente: O trabalho concreto torna-se a forma de
+manifestação do seu contrário, o trabalho humano abstracto.
+Na expressão de valor de uma mercadoria, o corpo do equivalente figura sempre como
+materialização do trabalho humano abstracto, e é sempre o produto de um trabalho particular,
+concreto e útil. Este trabalho concreto serve aqui, portanto, apenas para exprimir trabalho
+abstracto. Um fato, por exemplo, é uma simples realização do trabalho abstracto, a actividade do
+alfaiate que o produz é também apenas uma simples forma de realização do trabalho abstracto.
+Quando se exprime o valor do tecido no fato, a utilidade do trabalho do alfaiate não consiste no
+facto de ele fazer fatos - e segundo o ditado, monges - mas no facto de produzir um corpo, cujo
+valor transparece, cristalização de um trabalho que em nada se distingue do trabalho realizado no
+valor do tecido. Para poder incorporar-se num tal espelho de valor é preciso que o próprio trabalho
+do alfaiate nada mais reflicta do que a sua propriedade [abstracta] de ser trabalho humano.
+As duas formas de actividade produtiva, tecelagem e confecção de vestuário, exigem um dispêndio
+de força de trabalho humano. Ambas possuem, portanto, a propriedade comum de serem trabalho
+humano, e em certos casos, como, por exemplo, quando se trata da produção de valor, só devem
+ser consideradas sob este ponto de vista. Não existe nisso nada de misterioso; mas na expressão
+de valor das mercadorias, a questão é invertida. Por exemplo, para se exprimir que a tecelagem,
+não enquanto tal, [como trabalho concreto,] mas na sua propriedade geral de trabalho humano, cria
+o valor do tecido, contrapõe-se-lhe um outro trabalho [concreto], o que produz o fato, o equivalente
+do tecido, como a forma palpável na qual se materializa o trabalho humano [abstracto]. O trabalho
+do alfaiate é, assim, metamorfoseado em simples expressão da sua própria propriedade abstracta.
+Terceira particularidade da forma de equivalente: O trabalho concreto que produz o equivalente (no
+nosso exemplo, o do alfaiate), servindo simplesmente de expressão ao trabalho humano indistinto,
+toma a forma da igualdade com um outro trabalho (o que está contido no tecido), tornando-se
+assim, embora seja trabalho privado como qualquer outro trabalho produtivo de mercadorias,
+trabalho em forma directamente social. É precisamente por isso que ele se representa num produto
+que é imediatamente permutável com outra mercadoria. [Eis portanto uma terceira particularidade
+da forma-equivalente: o trabalho privado toma a forma do seu contrário, a forma de trabalho
+directamente social.]
+As duas particularidades da forma-equivalente examinadas em último lugar tornam-se ainda mais
+fáceis de compreender se nos reportarmos ao grande pensador que pela primeira vez analisou a
+forma-valor, bem como tantas outras formas, quer do pensamento, quer da sociedade, quer da
+natureza: Aristóteles.
+Em primeiro lugar, Aristóteles afirma claramente que a forma-dinheiro da mercadoria é apenas o
+aspecto desenvolvido da forma-valor simples, ou seja, da expressão de valor de uma mercadoria
+numa outra mercadoria qualquer; com efeito ele diz: «5 leitos = 1 casa» «não difere» de: «5 leitos =
+um tanto dinheiro».
+Além disso, ele apercebe-se de que a relação de valor que contém esta expressão de valor
+pressupõe, pelo seu lado, que a casa é considerada qualitativamente igual à cama, e que estes
+objectos, materialmente diferentes, não se poderiam comparar entre si como grandezas
+comensuráveis sem aquela igualdade de essência. «A troca - diz -não pode ter lugar sem aigualdade, nem a igualdade sem a comensurabilidade». Mas, neste ponto, ele hesita e renuncia à
+análise da forma-valor. «Na verdade – acrescenta - é impossível que coisas tão diferentes sejam
+comensuráveis entre si», isto é, qualitativamente iguais. A afirmação da sua igualdade será
+necessariamente contrária à natureza das coisas; «é somente um expediente para atender às
+necessidades práticas».
+Deste modo, é o próprio Aristóteles que nos diz qual é o obstáculo à prossecução da sua análise: a
+falta de conceito de valor. Qual é essa essência igual, isto é, a substância comum que a casa
+representa em face do leito, na expressão do valor deste último? Uma tal coisa, diz Aristóteles,
+«não pode, na verdade, existir». Porquê? A casa representa em face do leito qualquer coisa de
+igual, desde que represente o que existe de realmente igual em ambos. O quê, portanto? O
+trabalho humano.
+O que impedia Aristóteles de deduzir da forma-valor das mercadorias que todos os trabalhos são aí
+expressos como trabalho humano indistinto e, por conseguinte, iguais, é o facto de a sociedade
+grega repousar então sobre o trabalho dos escravos - tendo por base natural a desigualdade dos
+homens e das suas forças de trabalho. O segredo da expressão do valor - a igualdade e a
+equivalência de todos os trabalhos, porque e na medida em que são trabalho humano [em geral] -
+só pode ser decifrado quando a ideia da igualdade humana adquiriu já a firmeza de uma convicção
+popular. Mas isso só tem lugar numa sociedade em que a forma mercadoria se tornou a forma
+geral dos produtos do trabalho, onde, por conseguinte, a relação dos homens entre si como
+produtores e permutadores de mercadorias é a relação social dominante. O que mostra o génio de
+Aristóteles, é o facto de ele ter descoberto na expressão do valor das mercadorias uma relação de
+igualdade. Somente a situação histórica particular da sociedade em que vivia o impediu de
+descobrir em que é que consiste «na realidade» essa relação de igualdade [18].
+4. A forma-valor simples, no seu conjunto
+A forma-valor simples de uma mercadoria está contida na sua relação de valor ou de troca com
+uma outra qualquer mercadoria de espécie diferente. O valor da mercadoria A é expresso
+qualitativamente pela propriedade que tem a mercadoria B de ser imediatamente permutável por A.
+É expresso quantitativamente pela permutabilidade de uma quantidade determinada de B pela
+quantidade dada de A. Por outras palavras, o valor de uma mercadoria exprime-se autonomamente
+através da sua representação como valor-de-troca. Portanto, se no princípio deste capítulo
+dissemos - usando a terminologia corrente - que a mercadoria é valor-de-uso e valor-de-troca,
+contudo, para falar com rigor, isso é falso. A mercadoria é valor-de-uso ou objecto de utilidade e
+valor. Ela revela-se sob esse duplo aspecto - aquilo que ela é realmente - quando o seu valor
+possui uma forma fenomenal própria, distinta da sua forma natural, a forma de valor-de-troca; e
+esta forma não a possui quando considerada isoladamente [mas apenas na relação de valor ou de
+troca com uma outra mercadoria diferente]. Esclarecido isto, a terminologia que acima utilizámos
+deixa de ser equívoca, servindo antes para abreviar a exposição.
+Ressalta da nossa análise que é da natureza do valor das mercadorias que deriva a sua forma-
+valor [ou a sua expressão de valor], e não o contrário: que o seu valor e a sua grandeza do valor
+derivam da sua expressão como valor-de-troca. Contudo, é essa precisamente a ilusão dos
+mercantilistas e dos seus modernos epígonos, os Ferrier, os Ganilh, etc. 21, bem como dos seus
+antípodas, os modernos caixeiros-viajantes do livre-cambismo, tais como Bastiat e seus consortes.
+Os mercantilistas põem em relevo sobretudo o aspecto qualitativo da expressão de valor,
+consequentemente a forma-equivalente da mercadoria, que possui no dinheiro a sua forma
+acabada; ao contrário, os modernos paladinos do livre-cambismo, tendo de desembaraçar-se a
+todo o custo da sua mercadoria, fazem ressaltar o aspecto quantitativo da forma-valor relativa. Para
+eles não existe, pois, nem valor, nem grandeza de valor fora da sua expressão na relação de troca,
+isto é, praticamente só existem nas cotações diárias dos preços. O escocês MacLeod, que se
+impôs a tarefa de adornar, com a maior erudição possível, a trapalhada de preconceitos
+económicos da Lombardstreet - a rua dos grandes banqueiros de Londres -, constitui a síntese
+acabada dos mercantilistas supersticiosos e dos espíritos iluminados do livre-cambismo.
+Um exame atento da expressão do valor de A em B mostrou que nessa relação a forma natural da
+mercadoria A figura apenas como valor-de-uso, e a forma material da mercadoria B apenas como
+forma-valor. A contradição interna entre o valor-de-uso e o valor, contida na mercadoria, mostra-se,
+portanto, [numa contradição externa, isto é,] na relação de duas mercadorias, relação em que A,
+cujo valor se pretende exprimir, figura imediatamente apenas como valor-de-uso, enquanto que,pelo contrário, B, na qual o valor é expresso, figura imediatamente apenas como valor-de-troca. A
+forma-valor simples de uma mercadoria é, portanto, a simples forma de manifestação da
+contradição nela contida, entre valor-de-uso e valor.
+O produto do trabalho é, qualquer que seja a forma social, valor-de-uso ou objecto útil; mas
+somente numa época determinada do desenvolvimento histórico da sociedade, em que o trabalho
+gasto na produção de objectos úteis reveste o carácter de uma qualidade inerente [objectiva]
+dessas coisas, o carácter de seu valor -, só nessa época é que o produto do trabalho se transforma
+geralmente em mercadoria.
+O produto do trabalho adquire a forma-mercadoria quando o seu valor adquire a forma de valor-de-
+troca, oposta à sua forma natural; quando, portanto, ele é representado como a unidade em que se
+funda esta contradição. Daqui resulta que a forma simples assumida pelo valor da mercadoria é
+também a forma elementar sob a qual o produto do trabalho se apresenta como mercadoria; e que,
+portanto, o desenvolvimento da forma-mercadoria coincide com o desenvolvimento da forma-valor.
+É evidente a insuficiência da forma-valor simples, forma embrionária que terá de sofrer uma série
+de metamorfoses para chegar à forma-preço.
+Com efeito, a forma simples apenas distingue entre o valor e o valor-de-uso de uma mercadoria,
+pondo-a em relação de troca com uma só espécie de mercadoria, diferente dela, em vez de
+representar a sua igualdade qualitativa e a sua proporcionalidade quantitativa com todas as outras
+mercadorias, Quando o valor de uma mercadoria é expresso nesta forma [relativa] simples, uma
+outra mercadoria reveste, por sua vez, a forma de equivalente simples. Assim, por exemplo, na
+expressão do valor relativo do tecido, o fato apenas possui a forma-equivalente - forma que indica
+que ele é imediatamente permutável - em relação a uma só mercadoria, o tecido.
+Contudo, a forma-valor simples [,singular,] converte-se por si mesma numa forma mais completa. É
+certo que ela apenas exprime o valor de uma mercadoria A em uma só espécie de mercadoria
+diferente dela. Mas a espécie desta segunda mercadoria é absolutamente indiferente: fato, ferro,
+trigo, etc. As expressões do valor de uma mesma mercadoria tornam-se, portanto, tão variadas
+quantas as suas relações de valor com outras mercadorias.21a [ O número das suas possíveis
+expressões do valor é limitado apenas pelo número das espécies de mercadorias diferentes dela.]
+A expressão isolada do seu valor transforma-se, assim, numa série de expressões simples que se
+pode prolongar livremente.
+B - Forma-valor total ou desenvolvida
+z da mercadoria A = u da mercadoria B, ou = v da mercadoria C ou = x da mercadoria E, etc.
+(20 metros de tecido = 1 fato, ou = 10 libras de chá, ou = 40 libras de café, ou = 2 onças de ouro,
+ou = 1/2 tonelada de ferro, etc.)
+1. A forma desenvolvida do valor relativo
+O valor de uma mercadoria (por exemplo, o tecido) encontra-se agora representado em inúmeros
+outros elementos [do mundo das mercadorias]. A matéria de qualquer outra mercadoria torna-se o
+espelho do valor do tecido.22 [Desse modo, esse valor aparece ele mesmo pela primeira vez
+realmente como trabalho humano genérico, indistinto.] Qualquer outro trabalho, seja qual for a sua
+forma natural - costura, semeadura, extracção de ferro ou de ouro, etc. -, é agora considerado igual
+ao trabalho incorporado no valor do tecido, que atesta assim o seu carácter de trabalho humano. A
+forma total do valor relativo põe uma mercadoria em relação social [não já apenas com uma única
+espécie de mercadoria, mas] com todas as outras, [com o mundo das mercadorias. Enquanto
+mercadoria, ela é cidadã desse mundo]. Ao mesmo tempo, a série interminável das suas
+expressões mostra que ao valor das mercadorias é indiferente a forma particular de valor-de-uso
+que ele reveste.
+Na primeira forma - 20 metros de tecido = 1 fato - pode parecer que é por acaso que estas duas
+mercadorias são permutáveis nessa determinada proporção. Na segunda forma, pelo contrário,
+percebe-se imediatamente o que esta aparência esconde. O valor do tecido permanece o mesmo,
+quer se exprima em vestuário, em café, em ferro, num sem número de mercadorias diversas,
+pertencentes aos mais diversos possuidores. [Desaparece a relação acidental de dois possuidores
+individuais de mercadorias.] Torna-se evidente que não é a troca que regula a grandeza de valor de
+uma mercadoria; pelo contrário, é a grandeza do valor da mercadoria que regula as suas relaçõesde troca.
+2. A forma-equivalente particular
+Cada mercadoria (fato, trigo, chá, ferro, etc.) serve de equivalente na expressão do valor do tecido [
+e, portanto, de encarnação de valor]. A forma natural de cada uma destas mercadorias é agora
+uma forma-equivalente particular, ao lado de muitas outras. Igualmente as várias espécies de
+trabalho útil [determinadas e concretas], contidas nos corpos das diversas mercadorias,
+representam outras tantas formas particulares de realização ou de manifestação do trabalho
+humano puro e simples.
+3.Defeitos da forma-valor total ou desenvolvida
+Desde logo, a expressão relativa de valor é incompleta, dado que a série dos seus termos nunca
+termina: a cadeia, de que cada equação de valor forma um dos elos, pode prolongar-se
+indefinidamente à medida que surgem novas espécies de mercadorias, fornecendo a matéria de
+novas expressões de valor. [Em segundo lugar, ela constitui um mosaico variegado de expressões
+de valor diferentes e desconexas.] Finalmente, se, como terá de acontecer, generalizarmos esta
+forma, aplicando-a a todas as espécies de mercadorias, obteremos tantas séries diversas, e
+intermináveis de expressões de valor, quantas forem as mercadorias.
+Os defeitos da forma-valor relativa desenvolvida reflectem-se na forma-equivalente que lhe
+corresponde. Como a forma natural de cada espécie de mercadorias é, neste caso, uma forma-
+equivalente particular, ao lado de um sem-número de outras formas-equivalentes particulares,
+apenas existem, em geral, formas-equivalentes limitadas, que se excluem umas às outras.
+Igualmente, a espécie de trabalho útil, concreto [,determinado], contido em cada equivalente,
+apenas representa uma forma particular, isto é, uma manifestação incompleta, do trabalho
+humano. Este trabalho possui, é certo, a sua forma completa ou total de manifestação no conjunto
+das suas formas particulares. Mas falta a unidade de forma e de expressão.
+A forma-valor relativa total ou desenvolvida consiste, todavia, apenas numa soma de expressões
+relativas simples ou de equações da primeira forma, tais como:
+20 metros de tecido = 1 fato.
+20 metros de tecido = 10 libras de chá, etc.,
+em que cada uma contém reciprocamente a equação idêntica:
+1 fato = 20 metros de tecido
+10 libras de chá = 20 metros de tecido, etc.
+De facto, se o possuidor do tecido o troca por muitas outras mercadorias, exprimindo portanto o
+seu valor numa série de outras tantas mercadorias, então os possuidores das outras mercadorias
+têm necessariamente de trocá-las por tecido, exprimindo os valores das suas diversas mercadorias
+numa só e mesma mercadoria: o tecido. Portanto, se invertermos a série:
+20 metros, de tecido = 1 fato, ou = 10 libras de chá, etc., isto é, se exprimimos a recíproca que aí
+está já implicitamente contida, obteremos:
+C -Forma geral do valor
+1 fato =
+10 libras de chá =
+40 libras de café =
+2 onças de ouro =
+1/2 tonelada de ferro =
+x de mercadoria A =
+etc. = = = = = = = = = 20 metros de tecido1. Mudança de carácter da forma-valor
+As mercadorias exprimem agora os seus valores: 1o - de uma maneira simples, pois que o
+exprimem numa única mercadoria; 2o - unitariamente, pois que o exprimem na mesma mercadoria.
+A sua forma-valor é simples e comum, e portanto geral.
+As formas A e B apenas conseguiram expressar o valor de uma mercadoria como algo de distinto
+do seu próprio valor-de-uso ou da sua própria matéria.
+A primeira forma proporciona equações deste género: 1 fato = 20 metros de tecido, 10 libras de chá
+= 1/2 tonelada de ferro, etc. O valor do fato é expresso como algo de igual ao tecido, o valor do chá
+como algo de igual ao ferro, etc.; mas, estas expressões do valor do fato e do chá são tão
+diferentes uma da outra como o tecido e o ferro. Evidentemente que esta forma apenas surge, na
+prática, em épocas primitivas, quando os produtos do trabalho só eram transformados em
+mercadorias através de trocas acidentais e isoladas.
+A segunda forma exprime, de um modo mais completo que a primeira, a diferença que existe entre
+o valor de uma mercadoria (por exemplo, um fato) e o seu próprio valor-de-uso. Com efeito, o valor
+do fato assume aí todas as figuras possíveis em face da sua forma natural; algo de igual ao tecido,
+ao chá, ao ferro, a tudo, excepto ao fato. Por outro lado, esta forma torna impossível qualquer
+expressão comum do valor das mercadorias, pois que, na expressão de valor de uma mercadoria
+qualquer, todas as outras figuram como seus equivalentes, sendo portanto incapaz de exprimir o
+seu próprio valor. Esta forma-valor desenvolvida surge na realidade quando um produto de trabalho
+(por exemplo, o gado) se troca por outras mercadorias diferentes, já não excepcionalmente, mas
+sim duma forma habitual.
+Na expressão geral do valor relativo, pelo contrário, cada mercadoria (tal como fato, café, ferro,
+etc.) possui uma só e mesma forma-valor (por exemplo, a forma tecido) diferente da sua forma
+natural. Em virtude desta igualdade com o tecido, o valor de cada mercadoria é agora distinto, não
+só do seu próprio valor-de-uso, mas também de todos os outros valores-de-uso, sendo, por isso
+mesmo, representado como o carácter comum e indistinto de todas as mercadorias. Esta forma é a
+primeira a relacionar as mercadorias entre si como valores, fazendo-as aparecer umas em face das
+outras como valores-de-troca.
+As duas primeiras formas exprimem o valor de uma mercadoria qualquer, seja numa única
+mercadoria de espécie diferente, seja numa série de muitas outras mercadorias. Em ambos os
+casos é, por assim dizer, assunto privado de cada mercadoria singular atribuir-se uma forma-valor,
+sem interferência das outras mercadorias. Estas desempenham, em face dela, o papel puramente
+passivo de equivalente. Ao invés, a forma-valor relativa geral apenas surge como obra comum das
+mercadorias no seu conjunto. Uma mercadoria só adquire a sua expressão geral de valor porque,
+ao mesmo tempo, todas as outras mercadorias exprimem os seus valores no mesmo equivalente,
+tendo cada nova espécie de mercadoria de fazer o mesmo. Com isso, tona-se evidente que as
+mercadorias que, do ponto de vista do valor, são coisas puramente sociais, também só podem
+exprimir essa existência social através da totalidade das suas relações recíprocas, tendo a sua
+forma-valor de ser, portanto, uma forma socialmente válida.
+A forma natural da mercadoria que se torna equivalente comum (o tecido), é agora a forma oficial
+dos valores. É assim que as mercadorias revelam umas às outras, não somente a sua igualdade
+qualitativa [como valores em geral], mas ainda as suas diferenças quantitativas [como grandezas
+comparáveis] de valor. As grandezas de valor, projectadas como que sobre um mesmo espelho, o
+tecido, reflectem-se reciprocamente. Exemplo: 10 libras de chá = 20 metros de tecido e 30 libras de
+café = 20 metros de tecido. Portanto: 10 libras de chá = 40 libras de café, ou então: em 1 libra de
+café existe apenas 1/4 [da substância de valor, ou seja] do trabalho contido em 1 libra de chá.
+A forma-valor relativa geral do mundo das mercadorias imprime à mercadoria equivalente, excluída
+desse mundo, o carácter de equivalente geral. [A sua própria forma natural é a figura comum do
+valor desse mundo; por isso] o tecido é agora imediatamente permutável por todas as outras
+mercadorias. [A sua forma corpórea apresenta-se como a incarnação visível, a materialização
+comum, social de todo o trabalho humano.] A sua forma natural é, portanto, ao mesmo tempo, a
+sua forma social. A tecelagem, o trabalho privado que produz o tecido, adquire por isso mesmo o
+carácter de trabalho social, a forma de igualdade com todos os outros trabalhos. As inúmeras
+equações de que se compõe a forma-valor geral equiparam o trabalho realizado no tecido com o
+trabalho contido em cada mercadoria que sucessivamente é comparada com ele, transformando a
+tecelagem na forma genérica de manifestação do trabalho humano [em geral]. Deste modo, otrabalho objectivado no valor das mercadorias não é representado somente duma forma negativa,
+isto é, como uma abstracção em que se diluem as formas concretas e as propriedades úteis do
+trabalho real; o que agora ressalta nitidamente é a sua natureza positiva. É a redução de todos os
+trabalhos reais ao seu carácter comum de trabalho humano, de dispêndio da mesma força humana
+de trabalho.
+A forma-valor geral [que representa os produtos do trabalho como simples cristalizações de
+trabalho humano indistinto] mostra, pela sua própria estrutura, que ela é a expressão social do
+mundo das mercadorias. Revela, por conseguinte, que nesse mundo das mercadorias o seu
+carácter especificamente social é constituído pelo carácter universalmente humano do trabalho.
+2. Relação entre o desenvolvimento da forma-valor relativa e o da forma-equivalente
+A forma-equivalente desenvolve-se simultaneamente e gradualmente com a forma relativa; mas - e
+é necessário acentuar bem isso -.o desenvolvimento da primeira não é mais que o resultado e a
+expressão do desenvolvimento da segunda. É desta que parte a iniciativa.
+A forma-valor relativa simples ou isolada de uma mercadoria pressupõe uma outra mercadoria
+qualquer como equivalente acidental [,particular]. A forma-valor relativa desenvolvida, essa
+expressão do valor de uma mercadoria em todas as outras, a todas imprime a forma de
+equivalentes particulares de espécie diferente. Finalmente, uma mercadoria específica adquire a
+forma de equivalente geral, porque todas as outras mercadorias fazem dela a matéria da sua
+forma-valor relativa geral [,unitária].
+Todavia, na mesma medida em que se desenvolve a forma-valor em geral, desenvolve-se também
+a contradição entre os seus dois pólos: valor relativo e equivalente.
+Já a primeira forma-valor - 20 metros de tecido = 1 fato - contém esta contradição, mas sem a fixar.
+Nesta equação, um dos termos (o tecido) encontra-se sob a forma-valor relativa, e o termo oposto
+(o fato) sob a forma-equivalente. Se porém lermos essa equação ao contrário, o tecido e o fato
+mudam muito simplesmente de papel, mas a forma da equação permanece inalterada. Assim, é
+difícil fixar neste caso a contradição entre os dois termos.
+Sob a forma B - 20 metros de tecido, = 1 fato, ou = 10 libras de chá, ou = 1 alqueire de trigo etc. -,
+uma espécie de mercadoria pode desenvolver completamente o seu valor relativo e revestir a
+forma-valor relativa total, porque, e na medida em que, todas as outras mercadorias se encontram
+em face dela sob a forma-equivalente. Neste caso já se não podem inverter os dois termos da
+equação sem mudar por completo o seu carácter, convertendo-a de forma-valor total em forma-
+valor geral.
+Finalmente, a última forma, a forma C, fornece ao conjunto das mercadorias uma expressão geral e
+social do valor relativo, porque, e na medida em que, exclui da forma-equivalente [geral] todas as
+mercadorias, com excepção de uma só. Uma mercadoria (o tecido) encontra-se,
+consequentemente, sob a forma de permutabilidade imediata com todas as outras mercadorias [ou
+sob forma directamente social], porque, e na medida em que, estas não se encontram nessa
+situação.23
+Portanto, sob esta última forma, o mundo das mercadorias só possui uma forma-valor relativa
+social e geral, porque todas as mercadorias que dele fazem parte são excluídas da forma-
+equivalente ou da forma sob que são imediatamente permutáveis. Pelo contrário, a mercadoria que
+funciona como equivalente geral (o tecido, por exemplo) não pode participar da forma-valor relativa
+geral; para isso, seria necessário que ela pudesse servir de equivalente a si mesma. Obteríamos
+então: 20 metros de tecido = 20 metros de tecido, tautologia que não exprime nem valor nem
+grandeza de valor. Para exprimir o valor relativo do equivalente geral, teremos de ler a forma C ao
+contrário. Ele não possui nenhuma forma relativa comum às outras mercadorias, mas o seu valor
+exprime-se relativamente na série interminável de todas as outras mercadorias. A forma-valor
+relativa desenvolvida, ou forma B, aparece-nos assim agora como a forma específica em que a
+mercadoria que serve de equivalente geral exprime o seu próprio valor [relativo].
+3.Transição da forma-valor geral à forma-dinheiro
+A forma-equivalente geral é uma forma do valor em geral. Pode, pois, caber a qualquer mercadoria.
+Por outro lado, uma mercadoria só pode encontrar-se sob esta forma (forma C) , porque e na
+medida em que ela própria é excluída por todas as outras mercadorias, como equivalente. E só apartir do momento em que este carácter exclusivo se fixa definitivamente numa certa espécie de
+mercadoria, é que a forma-valor relativa [unitária do mundo das mercadorias] ganha consistência
+objectiva, adquirindo validade social universal.
+A mercadoria especial com cuja forma natural a forma-equivalente pouco a pouco se identifica na
+sociedade, torna-se mercadoria-dinheiro ou funciona como dinheiro. A sua função social específica,
+e portanto o seu monopólio social, consiste em desempenhar o papel de equivalente universal no
+mundo das mercadorias. Entre as mercadorias que, na forma B, figuram como equivalentes
+particulares do tecido, e que, sob a forma C, exprimem conjuntamente no tecido o seu valor
+relativo, foi o ouro que conquistou historicamente esse privilégio. Então, substituindo na forma C a
+mercadoria-tecido pela mercadoria-ouro, teremos:
+D - Forma-dinheiro [20a]
+20 metros de tecido =
+1 fato =
+10 libras de chá =
+40 libras de café =
+1/2 tonelada de ferro =
+x da mercadoria A =
+etc. = = = = = = = = = = 2 onças de ouro;
+Na transição da forma A à forma B e da forma B à forma C ocorrem mudanças essenciais. A forma
+D, pelo contrário, em nada difere da forma C, a não ser no facto que agora é o ouro que possui, em
+vez do tecido, a forma-equivalente geral. O progresso consiste simplesmente em que a forma de
+permutabilidade imediata e universal, ou a forma de equivalente geral, se incorporou
+definitivamente [por força da prática social] na forma natural e específica do ouro.
+O ouro só desempenha o papal de dinheiro em face das outras mercadorias na medida em que já
+anteriormente desempenhava em face delas o papel de mercadoria. Tal como todas elas, ele
+funcionava como equivalente quer acidentalmente [como equivalente singular] em trocas isoladas,
+quer como equivalente particular ao lado de outros equivalentes. Pouco a pouco passou a
+funcionar, dentro de limites mais ou menos largos, como equivalente geral. Ao conquistar o
+monopólio dessa posição na expressão do valor do mundo mercantil, tornou-se mercadoria-
+dinheiro e, somente a partir do momento em que já se tornou mercadoria-dinheiro, é que a forma D
+se distingue da forma C, ou que a forma-valor geral se transforma em forma-dinheiro.
+A expressão simples do valor relativo de uma mercadoria (do tecido, por exemplo) na mercadoria
+que funciona já como dinheiro (por exemplo o ouro) é a forma-preço. A forma-preço do tecido é
+portanto:
+20 metros de tecido = 2 onças de ouro,
+ou, se 2 libras esterlinas for a designação monetária de 2 onças de ouro,
+20 metros de tecido = 2 libras esterlinas.
+A dificuldade no conceito de forma-dinheiro reside simplesmente na compreensão da forma-
+equivalente geral, ou seja, a forma-valor geral, a forma C. Esta analisa-se na forma-valor
+desenvolvida, a forma B, e o elemento constituinte desta última é a forma A:
+20 metros de tecido = 1 fato, ou
+x da mercadoria A = y da mercadoria B.
+A forma simples da mercadoria é, por conseguinte, o germe da forma-dinheiro.
+Início da páginaSeção 4
+O Fetichismo da Mercadoria e o Seu Segredo
+A primeira vista, uma mercadoria parece uma coisa trivial e que se compreende por si mesma. Pela
+nossa análise mostrámos que, pelo contrário, é uma coisa muito complexa, cheia de subtilezas
+metafísicas e de argúcias teológicas. Enquanto valor-de-uso, nada de misterioso existe nela, quer
+satisfaça pelas suas propriedades as necessidades do homem, quer as suas propriedades sejam
+produto do trabalho humano. É evidente que a actividade do homem transforma as matérias que a
+natureza fornece de modo a torná-las úteis. Por exemplo, a forma da madeira é alterada, ao fazer-
+se dela uma mesa. Contudo, a mesa continua a ser madeira, uma coisa vulgar, material. Mas a
+partir do momento em que surge como mercadoria, as coisas mudam completamente de figura:
+transforma-se numa coisa a um tempo palpável e impalpável. Não se limita a ter os pés no chão;
+face a todas as outras mercadorias, apresenta-se, por assim dizer, de cabeça para baixo, e da sua
+cabeça de madeira saem caprichos mais fantásticos do que se ela começasse a dançar.24
+O carácter místico da mercadoria não provém, pois, do seu valor-de-uso. Não provém tão pouco
+dos factores determinantes do valor. Com efeito, em primeiro lugar, por mais variados que sejam os
+trabalhos úteis ou as actividades produtivas, é uma verdade fisiológica que eles são, antes de tudo,
+funções do organismo humano e que toda a função semelhante, quaisquer que sejam o seu
+conteúdo e a sua forma, é essencialmente um dispêndio de cérebro, de nervos, de músculos, de
+órgãos, de sentidos, etc., do homem. Em segundo lugar, no que respeita àquilo que determina a
+grandeza do valor - isto é, a duração daquele dispêndio ou a quantidade de trabalho -, não se pode
+negar que essa quantidade de trabalho se distingue claramente da sua qualidade. Em todas as
+épocas sociais, o tempo necessário para produzir os meios de subsistência interessou
+necessariamente os homens, embora de modo desigual, de acordo com o estádio de
+desenvolvimento da civilização.25 Enfim, desde que os homens trabalham uns para os outros,
+independentemente da forma como o fazem, o seu trabalho adquire também uma forma social.
+Donde provém, portanto, o carácter enigmático do produto do trabalho, logo que ele assume a
+forma-mercadoria? Evidentemente, dessa mesma forma. A igualdade dos trabalhos humanos
+adquire a forma [objectiva da igualdade] de valor dos produtos do trabalho; a medida do dispêndio
+da força de trabalho humana, pela sua duração, adquire a forma de grandeza de valor dos produtos
+do trabalho; finalmente, as relações entre os produtores, nas quais se afirmam as determinações
+sociais dos seus trabalhos, adquirem a forma de uma relação social dos produtos do trabalho.
+[O carácter misterioso da forma-mercadoria consiste, portanto, simplesmente em que ela apresenta
+aos homens as características sociais do seu próprio trabalho como se fossem características
+objectivas dos próprios produtos do trabalho, como se fossem propriedades sociais inerentes a
+essas coisas; e, portanto, reflecte também a relação social dos produtores com o trabalho global
+como se fosse uma relação social de coisas existentes para além deles.] É por este quiproquó que
+esse produtos se convertem em mercadorias, coisas a um tempo sensíveis e suprasensíveis (isto,
+é, coisas sociais) .Também a impressão luminosa de um objecto sobre o nervo óptico não se
+apresenta como uma excitação subjectiva do próprio nervo, mas como a forma sensível de alguma
+coisa que existe fora do olho. Mas, no acto da visão, a luz é realmente projectada por um objecto
+exterior sobre um outro objecto, o olho; é uma relação física entre coisas físicas. Ao invés, a forma
+mercadoria e a relação de valor dos produtos do trabalho [na qual aquela se representa] não tem a
+ver absolutamente nada com a sua natureza física [nem com as relações materiais dela
+resultantes]. É somente uma relação social determinada entre os próprios homens que adquire aos
+olhos deles a forma fantasmagórica de uma relação entre coisas. Para encontrar algo de análogo a
+este fenómeno, é necessário procurá-lo na região nebulosa do mundo religioso. Aí os produtos do
+cérebro humano parecem dotados de vida própria, entidades autónomas que mantêm relações
+entre si e com os homens. O mesmo se passa no mundo mercantil com os produtos da mão do
+homem. É o que se pode chamar o fetichismo que se aferra aos produtos do trabalho logo que se
+apresentam como mercadorias, sendo, portanto, inseparável deste modo-de-produção.
+[Este carácter fetiche do mundo das mercadorias decorre, como mostrou a análise precedente, do
+carácter social próprio do trabalho que produz mercadorias.]
+Os objectos úteis só se tornam em geral mercadorias porque são produtos de trabalhos privados,executados independentemente uns dos outros. O conjunto destes trabalhos privados constitui o
+trabalho social [global]. Dado que os produtores só entram em contacto social pela troca dos seus
+produtos, é só no quadro desta troca que se afirma também o carácter [especificamente] social dos
+seus trabalhos privados. Ou melhor, os trabalhos privados manifestam-se na realidade como
+fracções do trabalho social global apenas através das relações que a troca estabelece entre os
+produtos do trabalho e, por intermédio destes, entre os produtores. Daí resulta que para estes
+últimos, as relações [sociais] dos seus trabalhos privados aparecem tal como são, ou seja, não
+como relações imediatamente sociais entre pessoas nos seus próprios trabalhos, mas antes como
+[relações materiais entre pessoas e] relações sociais entre coisas.
+Somente pela troca é que os produtos do trabalho adquirem, como valores, uma existência social
+idêntica e uniforme, distinta da sua existência material e multiforme como objectos úteis. Esta cisão
+do produto do trabalho, em objecto útil e objecto de valor, só teve lugar na prática a partir do
+momento em que a troca adquiriu extensão e importância bastantes para que passassem a ser
+produzidos objectos úteis em vista da troca, de modo que o carácter de valor destes objectos é já
+tomado em consideração na sua própria produção. A partir desse momento, os trabalhos privados
+dos produtores adquirem, de facto, um duplo carácter social. Por um lado, como trabalhos úteis
+[determinados], devem satisfazer uma determinada necessidade social, afirmando-se portanto
+como partes integrantes do trabalho global, isto é, do sistema de divisão social do trabalho que se
+forma espontaneamente; por outro lado, só satisfazem as diversas necessidades dos próprios
+produtores, na medida em que cada espécie de trabalho privado útil é permutável - isto é, é
+equivalente a - qualquer outra espécie de trabalho privado útil. A igualdade de trabalhos que
+diferem toto coelo (**) uns dos outros só pode consistir numa abstracção da sua desigualdade real,
+na redução ao seu carácter comum de dispêndio de força humana, de trabalho humano abstracto,
+e é somente a troca que opera esta redução, pondo em presença uns dos outros, num pé de
+igualdade, os produtos dos mais diversos trabalhos.
+O duplo carácter social dos trabalhos privados apenas se reflecte no cérebro dos produtores sob as
+formas em que se manifestam no tráfico concreto, na troca dos produtos; [o carácter socialmente
+útil dos seus trabalhos privados, no facto de o produto do trabalho ter de ser útil, e útil aos outros; e
+o carácter social de igualdade dos diferentes trabalhos" no carácter comum de valor desses
+objectos materialmente diferentes os produtos do trabalho.]
+Quando os produtores relacionam os produtos do seu trabalho a título de valores, não é que eles
+vejam neles um simples invólucro sob o qual se esconde um trabalho humano idêntico; pelo
+contrário, ao considerarem iguais na troca os seus diversos produtos, pressupõem com isso que os
+seus diferentes trabalhos são iguais. Eles fazem-no sem o saber 26. Portanto, o valor não tem,
+escrito na fronte, o que ele é. Longe disso, ele transforma cada produto do trabalho num hieroglifo
+[social]. Somente com o tempo o homem procurará decifrar o sentido do hieroglifo, penetrar nos
+segredos da obra social para a qual contribui, pois a transformação dos objectos úteis em valores é
+um produto da sociedade, tal como o é a linguagem.
+A recente descoberta científica, de que os produtos do trabalho, enquanto valores, são [objectiva]
+pura e simplesmente a expressão do trabalho humano gasto na sua produção, marca uma época
+na história do desenvolvimento da humanidade, mas não dissipou de modo algum a fantasmagoria
+que faz aparecer o carácter social do trabalho como uma qualidade das coisas, dos próprios
+produtos. O que é verdadeiro apenas para esta forma particular de produção, a produção mercantil
+– a saber, que o carácter [especificamente] social dos mais diversos trabalhos [privados,
+independentes uns dos outros], consiste na sua igualdade como trabalho humano, e reveste uma
+forma objectiva, a forma-valor dos produtos do trabalho -, isso parece aos olhos dos homens
+imersos nas engrenagens das relações da produção de mercadorias, hoje como antes daquela
+descoberta, tão definitiva e tão natural como a forma gasosa do ar que permaneceu idêntica
+mesmo depois da descoberta dos seus elementos químicos.
+O que na prática interessa em primeiro lugar aos que trocam produtos é saber que quantidade [de
+produtos alheios] é que obterão em troca dos seus produtos, isto é, as proporções em que eles se
+trocam. A partir do momento em que estas proporções passaram a ter uma certa fixidez, produzida
+pelo hábito, elas parecer-lhe-ão provir da própria natureza dos produtos do trabalho. Parece existir
+nessas coisas uma propriedade de se trocarem em proporções determinadas, tal como as
+substâncias químicas se combinam com proporções fixas [;por exemplo, uma tonelada de aço e
+duas onças de ouro têm igual valor, tal como uma libra de ouro e uma libra de ferro têm igual peso,
+apesar das suas diferentes qualidades físicas e químicas] .
+De facto, o carácter de valor dos produtos do trabalho só se fixa quando eles se determinam comograndezas de valor. Estas últimas mudam sem cessar, independentemente da vontade e das
+previsões [e das acções] daqueles que trocam mercadorias, aos olhos de quem o seu próprio
+movimento social toma assim a forma de um movimento de coisas, movimento que os dirige em
+vez de serem eles a dirigi-lo. É necessário que a produção mercantil se tenha completamente
+desenvolvido, para que da própria experiência decorra esta verdade científica: - que os trabalhos
+privados executados independentemente uns dos outros, mas inteiramente interdependentes como
+ramificações espontâneas do sistema da divisão social do trabalho, são constantemente reduzidos
+à sua medida socialmente proporcional. E porquê? Porque nas relações de troca, acidentais e
+sempre variáveis, dos seus produtos, o tempo de trabalho social necessário à sua produção impõe-
+se forçosamente como lei reguladora natural, tal como a lei da gravidade se faz sentir a qualquer
+pessoa quando a sua casa desaba sobre a sua cabeça.27 A determinação da grandeza de valor
+pela duração do trabalho é, portanto, um segredo escondido sob o movimento aparente dos valores
+[relativos] das mercadorias; mas a sua descoberta, mostrando embora que a grandeza de valor não
+se determina ao acaso, como poderá parecer, não faz com isso desaparecer a forma que
+representa esta quantidade como uma relação de grandeza entre as coisas, entre os próprios
+produtos do trabalho.
+A reflexão sobre as formas da vida social, e por conseguinte a sua análise científica, segue um
+caminho completamente oposto ao do movimento real. Começa depois dos factos consumados, já
+com os resultados do processo de desenvolvimento. As formas que imprimem aos produtos do
+trabalho a marca de mercadorias e que por isso são pressuposto da sua circulação, possuem,
+também elas, já a fixidez de formas naturais da vida social, antes que os homens procurem dar-se
+conta, não do carácter histórico destas - que, pelo contrário, se lhes apresentam já como imutáveis
+-, mas do seu sentido último. Assim, foi somente a análise do preço das mercadorias que conduziu
+à determinação da grandeza do valor, e somente a comum expressão das mercadorias em dinheiro
+levou à fixação do seu carácter de valor. Ora, é precisamente esta forma acabada do mundo das
+mercadorias, a sua forma-dinheiro, que, em vez de revelar, dissimula o carácter social dos
+trabalhos privados e as relações sociais entre os produtores. Quando digo que o trigo, um fato,
+botas se relacionam com o tecido como incarnação geral do trabalho humano abstracto, a falsidade
+e o absurdo desta expressão salta logo à vista. Mas quando os produtores destas mercadorias as
+relacionam ao tecido - ou ao ouro ou à prata, o que vem a dar no mesmo -, como equivalente geral,
+as relações entre os seus trabalhos privados e o conjunto do trabalho social [global] aparecem-lhes
+precisamente sob esta forma absurda.
+[São formas destas que constituem as categorias da economia burguesa.] As categorias da
+economia burguesa são formas de pensamento que têm uma verdade objectiva, enquanto
+reflectem relações sociais reais, mas estas relações pertencem somente a esta época histórica
+determinada, em que a produção mercantil é o modo de produção social. Se encararmos outras
+formas de produção, logo veremos desaparecer todo este misticismo [,sortilégio e magia] que
+obscurece os produtos do trabalho no período actual.
+Uma vez que a economia política gosta das robinsonadas, visitemos então Robinson na sua ilha.28
+Embora naturalmente modesto, nem por isso tem menos necessidades diferentes a satisfazer,
+sendo-lhe necessário executar trabalhos úteis de várias espécies, por exemplo, fabricar móveis,
+fazer utensílios, domesticar animais, pescar, caçar, etc. Acerca das suas orações e outras
+bagatelas semelhantes nada temos a dizer, pois que o nosso Robinson encontra nisso o seu
+prazer, considerando essas actividades como uma distracção tonificante. Apesar da variedade das
+suas funções produtivas, ele sabe que elas são apenas as diversas formas pelas quais se afirma o
+próprio Robinson, isto é, são simplesmente modos, diversos de trabalho humano. As próprias
+necessidades obrigam-no a dividir o seu tempo pelas diferentes ocupações. O facto de uma ocupar
+um maior, e outra um menor lugar no conjunto dos seus trabalhos, depende da maior ou menor
+dificuldade que tem de vencer para conseguir o resultado útil que tem em vista. É a experiência que
+lho ensina, e o nosso homem que salvou do naufrágio relógio, livro-razão, pena e tinta, não tarda,
+como bom inglês que é, a anotar todos os seus actos diários. O seu inventário contém a descrição
+dos objectos úteis que possui, dos diferentes modos de trabalho que a sua produção exigiu e,
+finalmente, do tempo de trabalho que lhe custaram, em média, determinadas quantidades destes
+diversos produtos. Todas as relações de Robinson com as coisas, que formam a riqueza que ele
+próprio criou, são de tal modo simples e transparentes que qualquer pobre de espírito as poderia
+compreender sem grande esforço intelectual. E, no entanto, estão aí contidas todas as
+determinações essenciais do valor. Passemos agora da ilha luminosa de Robinson para a sombria
+Idade Média europeia. Em vez do homem independente, todos aqui se encontram dependentes:
+servos e senhores, vassalos e suseranos, leigos e clérigos. Esta dependência pessoal caracterizatanto as relações sociais da produção material, como todas as outras esferas da vida assentes
+sobre ela. E é precisamente porque a sociedade se baseia na dependência pessoal que todas as
+relações sociais nos aparecem como relações entre pessoas. Por isso, os diversos trabalhos e os
+seus produtos não têm necessidade de assumir uma figura fantástica distinta da sua realidade.
+Surgem [no mecanismo social] como serviços e prestações em espécie. É também a forma natural
+do trabalho, a sua particularidade e não a sua generalidade, o seu carácter abstracto, como na
+produção mercantil -, que é aqui a sua forma [directamente] social. A corveia, tal como o trabalho
+que produz mercadorias, é igualmente medida pelo tempo; mas todo o camponês sabe muitíssimo
+bem - sem necessidade de recorrer a um Adam Smith - que é uma quantidade determinada da sua
+força de trabalho pessoal que ele dispende ao serviço do seu senhor. O dízimo a pagar ao cura é
+bem mais claro que a bênção deste. Como quer que julguemos os papéis que os homens
+desempenham nesta sociedade [uns perante os outros], as relações sociais das pessoas nos seus
+trabalhos respectivos afirmam-se com toda a nitidez como as suas próprias relações pessoais, não
+se dissimulando em relações sociais das coisas, dos produtos do trabalho.
+Para encontrarmos o trabalho comum [,directamente social] , ou seja, a associação imediata, não
+precisamos de nos reportarmos à sua forma natural primitiva [,espontânea], tal como nos aparece
+no limiar da história de todos os povos civilizados.29 Temos um exemplo bem perto de nós, na
+indústria rural e patriarcal de uma família de camponeses que produz, para as suas próprias
+necessidades, gado, trigo, tecido, linho, vestuário, etc. Estes diferentes objectos apresentam-se à
+família como os produtos diversos do seu trabalho, não se apresentando reciprocamente como
+mercadorias. Os diferentes trabalhos que criam estes produtos - agricultura, criação de gado,
+tecelagem, confecção, do vestuário, etc. - são, desde logo, na sua forma natural, funções sociais,
+pois que são funções da família que, tal como a produção, de mercadorias, tem a sua [espontânea]
+divisão do trabalho. São as condições naturais, variáveis com a mudança das estações, bem como
+as diferenças de idade e de sexo, que regulam na família a distribuição do trabalho e a sua duração
+para cada membro da família. O dispêndio das forças de trabalho individuais medido pelo tempo da
+sua duração aparece aqui directamente como carácter social dos próprios trabalhos, uma vez que
+as forças de trabalho individuais funcionam [naturalmente] apenas como órgão da força [de
+trabalho] comum da família.
+Figuremos finalmente uma reunião de homens livres, trabalhando com meios de produção comuns,
+e dispendendo, de acordo com um plano concertado, as suas numerosas forças [de trabalho]
+individuais como uma única força de trabalho social. Tudo o que dissemos do trabalho de Robinson
+repete-se aqui; mas agora socialmente e não individualmente. Todos os produtos de Robinson
+eram seu produto pessoal e exclusivo e portanto objectos de utilidade imediata para ele. O produto
+total da referida reunião de trabalhadores é um produto social. Uma parte serve de novo como meio
+de produção, permanecendo social ; mas a outra parte é consumida [ como meio de subsistência] ,
+devendo, por isso, repartir-se entre todos. O modo de repartição variará segundo o organismo de
+produção da sociedade e o [correspondente] nível de desenvolvimento histórico dos trabalhadores.
+Suponhamos, apenas para estabelecer um paralelo com a produção mercantil, que a parte a
+repartir por cada trabalhador seja proporcional ao seu tempo de trabalho. O tempo de trabalho
+desempenhará assim um duplo papel. Por um lado, a sua distribuição [socialmente planificada] na
+sociedade regula a justa relação das diversas funções com as diversas necessidades; por outro
+lado, serve de medida à parte individual de cada produtor no trabalho comum e, ao mesmo tempo,
+à porção que lhe compete na parte do produto comum reservada ao consumo. Neste caso, as
+relações sociais dos homens com os seus trabalhos e com os produtos do trabalho permanecem
+simples e transparentes, tanto na produção como, na distribuição [25] .
+O mundo religioso não é mais do que o reflexo do mundo real. Uma sociedade em que o produto
+do trabalho toma geralmente a forma de mercadoria e em que, portanto, a relação mais geral entre
+os produtores consiste em comparar os valores dos seus produtos e, sob esta forma material, em
+comparar entre si os seus trabalhos privados a título de trabalho humano igual, uma tal sociedade
+encontra no cristianismo, com o seu culto do homem abstracto - e sobretudo nos seus tipos
+burgueses, protestantismo, deísmo, etc. -, o complemento religioso mais conveniente. Nos modos-
+de-produção da antiga Ásia, e da antiguidade em geral, a transformação do produto em mercadoria
+[e, portanto, a existência do homem como produtor de mercadorias] desempenha apenas um papel
+secundário que, no entanto, adquire tanto mais importância quanto as comunidades se aproximam
+da dissolução. Povos mercadores, propriamente, apenas se encontram nos interstícios do mundo
+antigo, à maneira dos deuses de Epicuro [26], ou como os judeus nos poros da sociedade polaca.
+Aqueles antigos organismos sociais são, sob o ponto de vista da produção, infinitamente mais
+simples e mais transparentes do que a sociedade burguesa; mas eles têm por base, ou aimaturidade do homem individual - por assim dizer, a história ainda não cortou o cordão umbilical
+que o liga à comunidade natural de uma tribo primitiva -, ou condições de despotismo e de
+esclavagismo. O baixo nível de desenvolvimento das forças produtivas do trabalho que as
+caracteriza e que por isso impregna toda a esfera da vida material, a estreiteza das relações dos
+homens, quer entre eles quer com a natureza, reflectem-se idealmente nas velhas religiões
+nacionais. Dum modo geral, o reflexo religioso do mundo real só poderá desaparecer quando as
+condições do trabalho e da vida prática apresentarem ao homem relações transparentes e
+racionais com os seus semelhantes e com a natureza. A vida social cuja base é formada pela
+produção material e pelas relações que ela implica só se libertará da nuvem mística que a envolve,
+no momento em que ela se apresente como o produto de homens livremente associados, agindo
+conscientemente [,segundo um plano,] e senhores do seu próprio movimento social. Mas isto exige
+um conjunto de condições de existência material [,uma base material] da sociedade, que por sua
+vez só pode ser produto [espontâneo] de um longo e penoso desenvolvimento.
+É certo que a economia política, embora de uma forma muito imperfeita, analisou o valor e a
+grandeza do valor [e descobriu o conteúdo escondido nessas formas].30 Mas nunca pôs a questão
+de saber [porque é que esse conteúdo reveste essa forma,] por que é que o trabalho se representa
+no valor, e a medida do trabalho pela sua duração na grandeza do valor dos produtos.31 Fórmulas,
+que logo à primeira vista mostram pertencer a uma formação social em que a produção e as suas
+relações comandam o homem em vez de serem por ele comandadas, surgem à sua consciência
+burguesa como uma necessidade tão natural como o próprio trabalho produtivo. Nada de espantar
+que as formas de produção social que precederam a produção burguesa sejam tratadas da mesma
+maneira que os Padres da igreja tratam as religiões que precederam o Cristianismo.32
+O que, entre outras coisas, mostra a ilusão produzida sobre a maior parte dos economistas pelo
+fetichismo inerente ao mundo mercantil ou pela aparência material dos atributos sociais do
+trabalho, é a longa e insípida querela travada a propósito do papel da natureza na criação do valor-
+de-troca. Ora, dado que o valor-de-troca é apenas uma determinada maneira social de exprimir o
+trabalho empregue na produção de um objecto, ele não pode conter mais, elementos materiais do
+que, por exemplo, a cotação dos câmbios.
+Na nossa sociedade, a forma económica mais geral e mais simples que se liga aos produtos do
+trabalho - a forma-mercadoria - é tão familiar a toda a gente que ninguém vê mal nisso.
+Consideremos outras formas económicas mais complexas [29]. Donde provinham, por exemplo, as
+ilusões do sistema mercantilista? Evidentemente do carácter fetiche que a forma-dinheiro imprime
+aos metais preciosos [;segundo esse sistema, o ouro e a prata na sua função de dinheiro não
+representavam uma relação social de produção, antes eram objectos naturais com peculiares
+propriedades sociais]. E a economia moderna que se tem em alta conta e não se cansa de zombar,
+insipidamente, do fetichismo dos mercantilistas, será ela menos vítima das aparências? O seu
+primeiro dogma não consiste em considerar que estas coisas (instrumentos de trabalho por
+exemplo) são, por natureza, capital, e que, pretender despojá-las deste carácter puramente social,
+é cometer um crime contra a natureza? Finalmente, os fisiocratas, tão superiores em tantos
+aspectos, não imaginaram que a renda fundiária não é um tributo arrancado aos homens, mas um
+presente feito pela própria natureza aos proprietários?
+Mas não nos antecipemos e contentemo-nos com mais um exemplo a propósito da própria forma-
+mercadoria. Se pudessem falar, as mercadorias diriam: «Pode o nosso valor-de-uso interessar ao
+homem, que para nós, enquanto, objectos, isso é-nos indiferente. O que nos interessa é o nosso
+valor. Demonstra-o a nossa relação recíproca como coisas de venda e de compra. Só nos
+relacionamos umas com as outras como valores-de-troca». O economista parece exprimir a própria
+alma das mercadorias, quando diz: «o valor [valor-de-troca] é uma propriedade das coisas; a
+riqueza [valor-de-uso] é uma propriedade do homem. O valor, neste sentido, pressupõe
+necessariamente a troca, a riqueza, não».33 «A riqueza [valor-de-uso] é um atributo do homem; o
+valor, um atributo das mercadorias. Um homem ou uma comunidade são ricos, uma pérola ou um
+diamante possuem valor (...) Uma pérola ou um diamante possuem valor enquanto pérola ou
+diamante».34 Até hoje nenhum químico descobriu ainda valor-de-troca numa pérola ou num
+diamante. Os economistas que descobriram ou inventaram substâncias químicas deste género e
+que se reclamam da sua profundidade, acham que o valor-de-uso das coisas lhes pertence,
+independentemente das suas propriedades materiais; enquanto que o valor lhes pertence na sua
+qualidade de coisas. O que lhes vem confirmar esta opinião, é a circunstância particular de o valor
+útil das coisas se realizar para o homem sem troca, quer dizer, numa relação imediata entre a coisa
+e o homem, enquanto que, ao invés, o seu valor apenas se realiza na troca, isto é, numa relação
+social. A quem é que isto não faz lembrar o bom Dogberry e a lição que deu ao guarda nocturnoSeacoal: [30] «(Ser um homem bem parecido, é um dom da fortuna; mas saber ler e escrever é um
+dom da natureza».35
+Início da página
+Notas Originais:
+1 Karl Marx, Zur Kritic der politischen Oekonomie, 1859, p. 3. (Contribuição para a Crítica da
+Economia Política, 1971, p. 35.) (retornar ao texto)
+2 «O desejo implica a necessidade; é o apetite do espirito, que lhe é tão natural quanto a fome para
+o corpo (...) A maior parte [das coisas] retiram o seu valor do facto de satisfazerem as
+necessidades do espirito» (Nicholas Barbon, A Discourse on coining the new Money lighter 1696,
+pp. 2 e 3). (retornar ao texto)
+3 «As coisas possuem uma virtude intrínseca» (virtude é a designação especifica de Barbon para o
+valor-de-uso) «que tem a mesma qualidade em toda a parte, tal como, por exemplo, a do íman de
+atrair o ferro» (l. c. p. 16). A propriedade que o íman tem de atrair o ferro apenas se tornou útil
+quando, por seu intermédio, se descobriu a polaridade magnética. (retornar ao texto)
+4 «O que constitui o valor natural de uma coisa é a propriedade que ela tem de satisfazer as
+necessidades ou as conveniências de vida humana» (John Locke, Some considerations..., 1691, in
+Works. Londres, 1777, vol. II, p. 28). No séc. XVII encontra-se ainda muitas vezes nos autores
+ingleses a palavra Worth por valor-de-uso e a palavra Value por valor-de-troca, perfeitamente de
+acordo com o espírito de uma língua que gosta de exprimir a coisa imediata em termos germânicos
+e a coisa reflectida em termos românicos. (retornar ao texto)
+5Na sociedade burguesa «a ignorância da lei a ninguém aproveita». Em virtude de uma fictio juris
+económica, qualquer comprador é considerado como possuindo um conhecimento enciclopédico
+das mercadorias. (retornar ao texto)
+6 «O valor consiste na relação de troca entre uma certa coisa e outra, entre uma certa medida de
+uma produção e uma certa medida de outra» (Le Trosne, De l’intérêt social, in Physiocrates, Ed.
+Daire, Paris, 1846, p. 889). (retornar ao texto)
+7 «Nada pode ter um valor-de-troca intrínseco» (N. Barbon, l. c., p. 6) ; ou como diz Butler:
+The value of a thing
+Is just as much as it will bríng*.
+* O valor de uma coisa é precisamente aquilo que ela proporciona. (retornar ao texto)
+8 «One sort of wares are as good as another, if the value be equal. There is no difference or
+distinction in things of equal value». Barbon acrescenta: «Cem libras esterlinas de chumbo ou de
+ferro têm tanto valor como cem libras esterlinas de prata ou de ouro» (N. Barbon, l. c., p. 53 e 7).
+(retornar ao texto)
+9 «O valor deles [dos objectos de uso] quando se trocam uns pelos outros é determinado pela
+quantidade de trabalho necessariamente exigida e ordinariamente gasta na sua produção» (Some
+Thougnts on the Interest of money in general..., Londres, pp. 36, 37). Este notável escrito anónimo
+do século passado não tem qualquer data. De acordo com o seu conteúdo, é evidente que terá
+aparecido no tempo de Jorge II, por alturas de 1739 ou 1740. (retornar ao texto)
+10 «Todas as produções de um mesmo género formam propriamente apenas uma massa, cujo
+preço se determina genericamente e sem atender às circunstâncias particulares» (Le Trosne, l. c.,
+p. 893) . (retornar ao texto)
+10a [Karl Marx, l. c., p. 6 e passim. (Ed. port. cit., p. 38) .] (retornar ao texto)
+10b [Nota à 4.a edição. O trecho que intercalei destina-se a evitar o erro, muito frequente, de que,
+para Marx, seria mercadoria qualquer produto desde que consumido por alguém diferente do
+produtor. F. E.] (retornar ao texto)
+11 Karl Marx, l c., p. 12, 13 e passim. (Ed. port. p. 43, 44). (retornar ao texto)
+12 «Todos os fenómenos do universo, sejam produzidos pela mão do homem ou pelas leis geraisda física, não nos dão a ideia da criação nova, mas somente de uma modificação da matéria.
+Reunir e separar, eis os únicos elementos que o espirito humano acha, ao analisar a ideia da
+reprodução; e é também uma reprodução de valor» (valor-de-uso, se bem que aqui o próprio Verri,
+na sua polémica contra os fisiocratas, não saiba de que espécie de valor fala) «e de riqueza, se a
+terra, o ar e a água se transformam, nos campos, em cereal, ou se a mão do homem converte a
+secreção de um insecto em seda, ou se alguns bocados de metal se organizam de modo a formar
+um despertador» (Pietro Verri: Meditazioni sulla Economia politica, impresso pela primeira vez em
+1773 na edição dos economistas de Custodi, parte moderna, t. XV, p. 21, 22). (retornar ao texto)
+13 cf. Hegel, Philosophie des Rechts, § 190. (retornar ao texto)
+14 O leitor deve notar que não se trata aqui do salário ou do valor que o operário recebe por um dia
+de trabalho, mas do valor da mercadoria na qual se traduz o seu dia de trabalho. Aliás, a categoria
+do salário ainda não existe nesta fase da nossa exposição. (retornar ao texto)
+15 Para demonstrar que «somente o trabalho é a medida definitiva e real com ajuda da qual o valor
+de todas as mercadorias pode ser avaliado e comparado em todos os tempos», diz A. Smith:
+«iguais quantidades de trabalho devem ter, em todos os tempos e em todos os lugares, o mesmo
+valor para o próprio trabalhador. No seu estado normal de saúde, de força e de actividade, e com o
+grau médio de habilidade que possua, ele tem sempre de ceder a mesma porção do seu repouso,
+da sua liberdade e da sua felicidade» (Wealth of Nations, Liv. I, C. V., p. 104, 105). Por um lado, A.
+Smith confunde aqui (embora nem sempre) a determinação do valor da mercadoria através da
+quantidade de trabalho gasto na sua produção com a determinação do seu valor através valor do
+trabalho, procurando portanto demonstrar que iguais quantidades de trabalho têm sempre o mesmo
+valor. Por outro lado, é certo que pressente que o trabalho, na medida em que se representa no
+valor das mercadorias, é apenas um dispêndio de força humana de trabalho; mas concebe este
+dispêndio exclusivamente como uma abnegação, como sacrificio do repouso, da liberdade e da
+felicidade, e não, ao mesmo tempo, como afirmação normal da vida. Mas também é certo que ele
+tem em vista o trabalhador assalariado moderno. Um dos predecessores de A. Smith, já por nós
+citado, afirma muito mais acertadamente: «Um homem ocupou-se durante uma semana em
+fornecer uma coisa necessária à vida (...) Quem lhe der uma outra em troca dela, não pode avaliar
+melhor qual seja o seu equivalente exacto do que calculando o que lhe custou exactamente o
+mesmo trabalho e o mesmo tempo: o que, de facto, não passa da troca do trabalho de um homem
+gasto numa coisa durante um certo tempo pelo trabalho de um outro homem gasto numa outra
+coisa durante o mesmo tempo» (Some Thoughts on the Interest of money in general p. 39). [Nota à
+4.. edição: A língua inglesa tem a vantagem de possuir duas palavras diferentes para estes dois
+aspectos distintos do trabalho. O trabalho que cria valores-de-uso e é qualitativamente determinado
+chama-se «work», em oposição a «labour»; o trabalho que cria valor e que só é avaliado
+quantitativamente chama-se «labour», em oposição a «work», F. E.] (retornar ao texto)
+16 Os poucos economistas que, como S. Bailey, procuraram fazer a análise da forma-valor, não
+podiam chegar a nenhum resultado: primeiramente, porque confundiam sempre o valor com a sua
+forma; em segundo lugar, porque, sob a influência grosseira do burguês prático, se preocuparam
+desde o inicio exclusivamente com o aspecto quantitativo. «O poder de dispor da quantidade (...) é
+o que faz o valor» (S. Bailey, Money,..., 1837, p. 11). [14] (retornar ao texto)
+16a [Um dos primeiros economistas que, depois de William Petty, se apercebeu da natureza do
+valor, o famoso Benjamin Franklin, diz: «Uma vez que o comércio nada mais é que a troca de um
+trabalho por outro trabalho, é pelo trabalho que se avalia mais exactamente o valor de todas as
+coisas» (The Works of B. Franklin, ed. Sparks, Boston, 1836, Vol. II, p. 267). Ao avaliar o valor das
+coisas «pelo trabalho», Franklin não se apercebeu do facto de ter abstraído da diversidade dos
+trabalhos permutados, e que, portanto, os reduziu ao mesmo trabalho humano. Diz o que não
+entende. Fala primeiro de «um trabalho», depois de «outro trabalho», finalmente de «trabalho»,
+simplesmente, como substância do valor de todas as coisas.] [15] (retornar ao texto)
+17 De certo modo, passa-se com o homem o mesmo que com a mercadoria. Como não vem ao
+mundo com um espelho, nem como um filósofo fichtiano, cujo Eu de nada tem necessidade para se
+afirmar [:«eu sou eu»], ele vê-se e reconhece-se somente num outro homem. Também este último
+lhe parece, em carne e osso, a forma fenomenal do género humano. [Somente pela sua relação
+com o homem Paulo, como seu semelhante, é que o homem Pedro se vê a si mesmo como
+homem. Desse modo, também o Paulo de carne e osso, na sua materialidade paulina, surge para
+Pedro como a forma de manifestação do género homem.] (retornar ao texto)
+18 O termo valor é utilizado aqui, como já aconteceu algumas vezes atrás, por [valorquantitativamente determinado, isto é, por] grandeza de valor (retornar ao texto)
+19 [Esta discordância entre a grandeza do valor e a sua expressão relativa tem sido explorada
+pelos economistas vulgares com a habitual sagacidade.] Num escrito dirigido principalmente contra
+a teoria do valor de Ricardo lê-se: «Não podeis deixar de admitir que, permanecendo constante o
+trabalho necessário à sua produção, A baixa porque B, com o qual se troca, sobe, caindo assim o
+vosso principio geral a respeito do valor (...) Admitindo que B baixa relativamente a A, quando o
+valor de A sobe relativamente a B, é o próprio Ricardo que destrói a base do seu grande axioma
+segundo o qual o valor de uma mercadoria é sempre determinado pela quantidade de trabalho nela
+incorporado; pois que se uma mudança nos custos de A altera não somente o seu valor
+relativamente a B, com o qual se troca, mas também o valor de B relativamente a A, embora não se
+tenha verificado nenhuma mudança na quantidade de trabalho exigida para a produção de B, então
+cai não somente a doutrina que faz da quantidade de trabalho aplicado num artigo a medida do seu
+valor, mas também a doutrina que afirma que o valor se regula pelos custos de produção» (J.
+Broadhurst, Political Economy, 1842, pp. 11. 14). Mestre Broadhurst podia, do mesmo modo, dizer:
+considerando-se as fracções 10/20, 10/50, 10/100, o número 10 permanece constante,
+decrescendo no entanto constantemente o seu valor proporcional, porque a grandeza dos
+denominadores aumenta. Assim cai por terra o grande principio segundo o qual a grandeza dos
+números inteiros é «regulada» pela quantidade das unidades que contêm. (retornar ao texto)
+20 O mesmo acontece em outros domínios. Um homem, por exemplo, só é rei porque outros
+homens se consideram seus súbditos e se comportam como tais. Mas, ao contrário, eles acreditam
+que são súbditos porque ele é rei. (retornar ao texto)
+21 F. L. A. Ferrier (sub-inspector das alfândegas): Du Gouvernement considéré dans ses raports
+avec le commerce, (1805) e Charles Ganilh: Des Sistemes d’Economte politique, (2a ed., 1821).
+(retornar ao texto)
+21a [Homero, por exemplo, exprime o valor de uma coisa numa série de coisas diferentes.]
+(retornar ao texto)
+22 Esta a razão por que se fala do valor-fato do tecido quando se exprime o seu valor em fatos, do
+seu valor-trigo quando se exprime em trigo, etc. Cada expressão deste género dá a entender que é
+o seu próprio valor que se manifesta nesses diversos valores-de-uso. «Como o valor de uma
+mercadoria denota a sua relação de troca, podemos assim falar do seu valor-trigo, do seu valor-
+fato, conforme a mercadoria com a qual é comparado; sendo assim, existem milhares de espécies
+de valor, tantas quantos os géneros de mercadorias, sendo todas igualmente reais e igualmente
+nominais» (S. Bailey, A Critical Dissertation on the Nature. Measure and Cause of value: chiefly in
+reference to the writings of Mr. Ricardo and his followers..., 1825. p. 39). S. Bailey, o autor deste
+escrito anónimo, que na altura deu muito que falar em Inglaterra, supôs ter liquidado qualquer
+conceito positivo de valor com esta enumeração das variadas expressões relativas do valor de uma
+mesma mercadoria. Apesar da estreiteza do seu espírito, não é menos verdade que por vezes pôs
+a nu as deficiências da teoria de Ricardo. Prova-o a animosidade com que ele foi atacado pela
+escola ricardiana, por exemplo na Westeminster Review. (retornar ao texto)
+23 A forma de permutabilidade imediata e universal não deixa transparecer de modo algum que se
+trata de uma forma polarizada, [da mercadoria], contendo em si contradições, tão inseparável da
+forma contrária, sob a qual não é possível a troca directa, quanto o positivo de um dos pólos de um
+íman o é do negativo do outro pólo. Por isso, imaginar que se podem tornar imediatamente
+permutáveis todas as mercadorias, seria o mesmo que imaginar que todos os católicos podem ser
+feitos papas ao mesmo tempo. Mas na realidade, a forma-valor relativa geral e a forma-equivalente
+geral são os dois pólos opostos, que se pressupõem e se repelem reciprocamente, da mesma
+relação social das mercadorias. Esta impossibilidade de troca directa entre as mercadorias é um
+dos principais inconvenientes ligados à forma actual da produção, na qual, todavia, o economista
+burguês vê o nec plus ultra da liberdade humana e da independência individual. Inúmeros, inúteis e
+utópicos esforços foram tentados para vencer este obstáculo. Fiz ver algures que Proudhon tinha
+sido precedido nesta tentativa por Bray, Gray e outros mais. [A ilustração dessa utopia filistina é
+constituída pelo socialismo de Proudhon, que, como já noutra altura mostrei[19], nem o mérito da
+originalidade possui; muito antes dele, Gray, Bray e outros tinham feito o mesmo muito melhor. Isto
+não impede que hoje em dia tal sabedoria grasse em certos círculos com o nome de «ciência».
+Jamais uma escola abusou tanto da palavra «ciência» como a proudhoniana, pois «onde faltam os
+conceitos introduz-se oportunamente uma palavra.»] [20] (retornar ao texto)
+24 Recorde-se que, enquanto o resto do mundo parecia estar tranquilo, a China e as mesascomeçaram a dançar .- pour encourager les autres. [21] (retornar ao texto)
+25 Entre antigos germanos, a grandeza de uma jeira de terra calculava-se pelo trabalho de um dia,
+e daí o seu nome Tagewerk, Mannewerk, etc. (jurnale ou jornalis, terra jurnalis ou diurnalis). [Ver
+Georg Ludwig von Maurer, Einleitung zur Geschichte der Mark -, Hof -, etc. Verfassung, Munique,
+1854, p. 129 s.]. De resto, a expressão «journal» de terre subsiste ainda em certas regiões da
+França[22] (retornar ao texto)
+26 Portanto, quando Galiani diz que o valor é uma relação entre pessoas - «da Richezza é una
+ragione tra due persone» (Galiani, Della moneta, t. III da recolha de Custodi dos Scritori classici
+Italiani di Economia politica, Parte Moderna, 1803, p. 220) -, deveria ter acrescentado: «uma
+relação escondida sob a capa das coisas». (retornar à nota)
+27 «Que se há-de pensar de uma lei que só pode impor-se através de revoluções periódicas? É
+simplesmente uma lei natural, assente sobre a inconsciência daqueles que a suportam» (Friedrich
+Engels: Umrisse zu einer Kritik der Nationaloekonomie, p. 103 nos Deutsch-Französische
+Jahrbücher, editados por Arnold Ruge e Karl Marx, Paris, 1844). (retornar ao texto)
+28 O próprio Ricardo não dispensa a sua robinsonada. «Segundo ele, o caçador e o pescador
+primitivos são mercadores que trocam o peixe e a caça à razão da duração do trabalho contido
+nesses valores-de-troca. Aqui comete o singular anacronismo de pôr o caçador e o pescador a
+consultarem as tabelas de anuidades usadas em 1817 na bolsa de Londres, a fim de avaliarem os
+seus instrumentos de trabalho. «Os paralelogramas do Snr. Owen parecem ser a única forma de
+sociedade que ele conhecia além da sociedade burguesa.» [23] [Karl Marx, Zur Kritik..., pp. 38, 39
+(Contribuição..., p. 64).] [24] (retornar ao texto)
+29 «Considerar que a forma primitiva da propriedade comum é uma forma especialmente eslava ou
+exclusivamente russa é um preconceito ridículo em voga nestes últimos tempos. É a forma primitiva
+que se encontra entre os Romanos, os germanos, os celtas, e de que, aliás, ainda hoje se pode
+encontrar um mostruário completo com diversos exemplares, ainda que, em parte arruinados, na
+Índia. Um estudo aprofundado das formas asiáticas da propriedade comum, sobretudo da Índia,
+mostraria como das várias formas da propriedade comum primitiva resultaram diversas formas da
+sua dissolução: Assim, por exemplo, os diferentes tipos originais da propriedade privada romana e
+germânica podem ser derivados das diversas formas da propriedade comum indiana» [Karl Marx,
+Zur Kritik..., p. 10 (Contribuição..., p. 67 sq.).] (retornar ao texto)
+30 Um dos primeiros economistas que depois de William Petty identificou o verdadeiro conteúdo do
+valor, o célebre Franklin, pode servir-nos de exemplo da maneira como a economia burguesa
+procede na sua análise. Diz ele: «Uma vez que o comércio nada mais é que troca de um trabalho
+por outro trabalho, é pelo trabalho que se avalia mais exactamente o valor de todas as coisas»
+(The Works of Benjamin Franklin..., ed. cit., t. II, p. 267). Franklin acha tão natural que as coisas
+tenham valor, como os corpos peso. A seu ver, trata-se simplesmente de achar a maneira de
+avaliar o mais exactamente possível esse valor. Nem sequer nota que ao dizer que «é pelo trabalho
+que se avalia mais exactamente o valor de todas as coisas», está a abstrair da diferença dos
+trabalhos trocados, reduzindo-os a um trabalho humano igual. De outro modo, deveria dizer: uma
+vez que a troca de botas ou de sapatos por mesas não é mais que uma troca de trabalho de
+sapateiro por trabalho de marceneiro é pelo trabalho do marceneiro que se avaliará com maior
+exactidão o valor das botas Servindo-se da palavra «trabalho», em geral, ele abstrai do carácter útil
+e da forma concreta dos diversos trabalhos [27]. Quanto à insuficiência da análise de Ricardo
+acerca da grandeza do valor -e é a melhor -, será demonstrada nos livros III e IV desta obra. No
+que respeita ao valor em geral, a economia política clássica jamais distinguiu claramente ou
+expressamente entre o trabalho enquanto representado no valor, e o mesmo trabalho enquanto
+representado no valor-de-uso do produto. É certo que ela faz de facto esta distinção, uma vez que
+considera o trabalho tanto do ponto de vista da qualidade, como do da quantidade. Mas não lhe
+ocorre que uma diferença meramente quantitativa dos trabalhos pressupõe a sua unidade ou a sua
+igualdade qualitativa, ou seja, a sua redução ao trabalho humano abstracto. Por exemplo, Ricardo
+declara-se de acordo com Destutt de Tracy quando este diz: «Uma vez que é certo que as nossas
+faculdades físicas e morais são a nossa única riqueza originária, que o emprego destas faculdades
+- um qualquer trabalho - é o nosso único tesouro primitivo, e que é sempre deste emprego que
+nascem todas as coisas que chamamos bens (...) também é certo que todos estes bens
+representam apenas o trabalho que os criou, e que se eles têm um valor, ou mesmo dois valores
+distintos, só podem extrair estes valores do valor do trabalho de que emanam». (Destutt de Tracy,
+Éléments d’idéologie, partes IV e V, Paris, 1826, p. 35, 36) .[Ricardo, The Principles of Political
+Economy, 3.a ed. Londres, 1822, p. 334.] Acrescentemos apenas que Ricardo atribui às palavrasde Destutt, um sentido mais profundo do que elas contêm. É certo que Destutt diz, por um lado, que
+as coisas que constituem a riqueza «representam o trabalho que as criou»; mas, por outro lado,
+entende que elas retiram os seus «dois valores diferentes» (valor-de-uso e valor-de-troca) do «valor
+do trabalho». Cai assim no lugar comum da economia vulgar, que pressupõe como dado o valor de
+uma mercadoria (do trabalho, por exemplo) a fim de determinar o valor das outras. Ricardo
+interpreta-o como se ele dissesse que o trabalho (e não o seu valor) se representa quer no valor-
+de-uso quer no valor-de-troca. Mas o próprio Ricardo distingue tão pouco claramente o duplo
+carácter do trabalho, que em todo o seu capitulo Valor e Riqueza, é obrigado a debater-se
+laboriosamente com as trivialidades dum J. B. Say. Por isso, no final, fica também muito espantado
+por se encontrar de acordo com Destutt quanto ao trabalho como fonte de valor, quando este por
+sua vez está de acordo com Say sobre o conceito de valor. (retornar ao texto)
+31 Uma das falhas principais da economia política clássica é nunca ter conseguido deduzir da sua
+análise da mercadoria, e especialmente do valor dessa mercadoria, a forma[-valor] sob a qual ela
+se torna valor-de-troca. São precisamente os seus melhores representantes, tais como Adam Smith
+e Ricardo, que tratam a forma-valor como qualquer coisa de indiferente ou sem qualquer relação
+intima com a natureza da própria mercadoria. Não se trata somente de a sua atenção ser absorvida
+pelo valor como grandeza. A razão disso é mais profunda. A forma-valor do produto de trabalho é a
+forma mais abstracta e mais geral do actual modo-de-produção, [burguês], que adquire, por isso
+mesmo, um carácter histórico, o carácter de um modo particular de produção social. Se se comete
+o erro de a tomar pela forma natural, eterna, de toda a produção em todas as sociedades, perde-se
+necessariamente de vista o lado especifico da forma-valor, logo, da forma mercadoria e, em maior
+grau, da forma-dinheiro, da forma-capital, etc. É isto que explica a razão por que se encontram em
+economistas, completamente de acordo entre si sobre a medição de grandeza do valor pela
+duração do trabalho, as ideias mais diversas e mais contraditórias sobre o dinheiro, ou seja, sobre
+a forma acabada do equivalente geral. Nota-se isto sobretudo quando se trata de questões como a
+dos bancos, por exemplo; é então um nunca mais acabar de definições do dinheiro e de lugares-
+comuns constantemente debitados a este propósito. [Por isso surgiu em sentido contrário um
+sistema mercantilista restaurado (Ganilh, etc.) que vê no valor apenas a forma social, ou melhor,
+apenas a sua aparência desprovida de substância.] Aproveito para chamar a atenção, uma vez por
+todas, que entendo por economia política clássica toda a economia que, a partir de Willlam Petty,
+procura penetrar no conjunto real e intimo das relações de produção na sociedade burguesa, por
+oposição à economia vulgar, que se contenta com as aparências, rumina sem cessar, por
+necessidade própria e para vulgarização dos fenómenos mais notórios, os materiais já elaborados
+pelos seus predecessores, limitando-se a erigir pedantemente em sistema e a proclamar como
+verdades eternas as ilusões com que os burgueses gostam de povoar o seu mundo, para eles o
+melhor dos mundos possíveis. [28] (retornar ao texto)
+32 «Os economistas têm uma maneira singular de proceder . Para eles existem apenas duas
+espécies de instituições, as artificiais e as naturais. As instituições feudais são instituições
+artificiais; as da burguesia são instituições naturais. Nisto assemelham-se aos teólogos, que
+também distinguem duas espécies de religiões: qualquer religião que não seja a sua é uma
+invenção dos homens, enquanto que a sua própria religião é uma emanação de Deus. Deste modo,
+houve história, mas já não há» (Karl Marx, Misere de la Philosophie. Réponse à la Philosophie de
+la Misere de M. Proudhon, 1837, p. 113). O mais divertido é Bastiat, que imagina que os gregos e
+os romanos viviam apenas da rapina. Mas para se viver da rapina durante vários séculos, é
+necessário que tenha existido sempre qualquer coisa para roubar ou que o objecto das rapinas
+continuas se reproduza constantemente. É de crer, pois, que os gregos e os romanos tivessem
+também o seu processo de produção, e portanto uma economia que constituía tanto a base
+material da sua sociedade, quanto a economia burguesa constitui a base da sociedade actual. Ou
+pensará Bastiat que um modo-de-produção assente no trabalho dos escravos é um sistema de
+roubo? Coloca-se então num terreno perigoso. Quando um gigante do pensamento como
+Aristóteles pode enganar-se na sua apreciação do trabalho escravo, por que é que um economista
+anão como Bastiat haveria de acertar na sua apreciação do trabalho assalariado? Aproveito esta
+oportunidade para responder sucintamente a uma objecção que me foi feita por um jornal germano-
+americano a propósito da minha obra: Zur Kritik der Politischen Ökonomie, publicada em 1859.
+Segundo ele, a minha opinião de que o modo-de-produção determinado e as relações sociais que
+dai derivam, numa palavra, «a estrutura económica da sociedade, é a base real sobre a qual se
+eleva o edifício jurídico e político», de tal maneira que «o modo-de-produção da vida material
+domina em geral o desenvolvimento da vida social, política e intelectual», segundo ele, esta opinião
+seria justa para o mundo moderno, dominado pelos interesses materiais, mas não para a Idade
+Média, onde dominava o catolicismo, nem para Atenas e Roma, onde dominava a política. Desdelogo, é estranho que alguém se disponha a crer que alguém ignora estas trivialidades sobre a
+Idade Média e a antiguidade. O que é evidente e que nem a primeira podia viver do catolicismo,
+nem a segunda da política. Pelo contrário, as condições económicas de então explicam a razão por
+que, no primeiro caso o catolicismo e no segundo a política, desempenhavam o papel principal. De
+resto, um mínimo de conhecimentos sobre a história da república romana, por exemplo, basta para
+ver que o segredo da sua história é a história da propriedade fundiária. Por outro lado, ninguém
+ignora que já D. Quixote teve que se arrepender por ter acreditado que a cavalaria andante era
+compatível com todas as formas económicas da sociedade. (retornar ao texto)
+33 «Value is a property of things, riches of man. Value, in this sense, necessarily implies
+exchanges, riches do not» (Observation on some verbal Disputes in Pol. Economy..., 1821. p. 16).
+(retornar ao texto)
+34 «Riches are the attribute of man, value is the atribute of commodities: A man or a community is
+rich. a pearl or a diamond is valuable (...) A pearl or a diamond is valuable as a pearl or a diamond»
+(S. Bailey, l. c., pp. 165 sq.). (retornar ao texto)
+35 O autor das Observations e S. Bailey acusam Ricardo de ter transformado o valor-de-troca, de
+coisa puramente relativa em algo de absoluto. Ao contrário, ele reduziu a relatividade aparente que
+estes objectos (tais como a pérola e o diamante, por exemplo) possuem como valor-de-troca, à
+verdadeira relação escondida sob esta aparência, à sua relatividade como meras expressões de
+trabalho humano. Se os partidários de Ricardo só souberam responder a Bailey de forma grosseira
+e nada concludente, isso só aconteceu porque não encontraram no próprio Ricardo nada que os
+esclarecesse acerca da relação íntima que existe entre o valor e a sua forma, ou seja, o valor-de-
+troca. (retornar ao texto)
+Notas dos Tradutores:
+(*) Contradição nos termos. (retornar ao texto)
+(**) Completamente, inteiramente. (retornar ao texto)
+(...)
+[9] Na ed. alemã: «O Processo de Acumulação do Capital». (retornar ao texto)
+[9a] Como o próprio Marx diz no prefácio à 1a ed. alemã, os três capítulos que constituem esta 1a
+Secção de O Capital reproduzem o conteúdo do seu livro anterior Zur Kritik der politischen
+ökonomie (1859), para o qual frequentemente remete e que muitas vezes transcreve. Contudo, não
+foram incluídos em O Capital nem os anexos históricos A, B e C, nem a secção IV «Os metais
+preciosos» daquela obra. Nas remissões para essa obra utilizámos a ed. portuguesa, publicada em
+Lisboa em 1971, alterando a tradução quando isso nos pareceu necessário.
+[10] Este parágrafo não existe na ed. definitiva alemã. Passou parcialmente da 1a ed. alemã para a
+ed. francesa. (retornar ao texto)
+[11] Redacção diferente no alemão: «Para simplificar, na nossa exposição consideraremos que
+toda a espécie de força de trabalho é, directamente, força de trabalho simples, o que nos poupa
+apenas a tarefa da redução de um ao outro». Na verdade, Marx nunca chegou a desenvolver o
+importante problema da redução do trabalho complexo ao trabalho simples. (retornar ao texto)
+[12] Redacção diferente deste período no alemão: «Força produtiva é sempre, naturalmente, a
+força produtiva de um trabalho útil, concreto, e, de facto, apenas determina o grau de eficácia de
+uma actividade produtiva, com objectivo determinado, durante um certo espaço de tempo.» Este
+texto apenas define mais claramente a força produtiva (ou produtividade) do trabalho. (retornar ao
+texto)
+[13] Cfr. Shakespeare, Henrique IV, I parte, III acto, cena III. (retornar ao texto)
+[14] Na ed. francesa esta nota vem manifestamente deslocada, no inicio do § 3o. (retornar à nota)
+[15] O texto desta nota, que não consta da ed. francesa, é a reprodução, resumida, da primeira
+parte de outra nota da ed. francesa. Incluímos os dois textos. Ver infra, nota 30. (retornar à nota)
+[16] Estes dois últimos períodos têm redacção diferente no alemão: «Na relação de valor do tecido,
+o fato figura como qualitativamente igual àquele, como coisa da mesma natureza, dado que é um
+valor. Ele figura aqui, pois, como uma coisa na qual o valor se manifesta ou que na sua formanatural, palpável, representa valor». (retornar ao texto)
+[17] «Paris vale bem uma missa». teria dito Henrique IV em 1583 ao converter-se ao catolicismo.
+(retornar ao texto)
+[18] Na análise que precede, Marx refere-se à obra de Aristóteles, Ética a Nicómaco, livro V. Cap.
+V. (retornar ao texto)
+[19] Cfr. de Marx: Miséria da Filosofia-Resposta à Filosofia da Miséria de Proudhon (1847). Cap. 1
+e Contribuição para a Crítica da Economia Política, ed. portuguesa (Lisboa 1971) p.73 (nota 44) e
+pp. 91 seg. (retornar à nota)
+[20] Cfr. Goethe, Fausto, 1a. Parte «Quarto de estudo». (retornar à nota)
+[20a] Na ed. francesa: «Forme monnaie ou argent». Em nota justlfica-se: «A tradução exacta das
+palavras alemãs Geld e Geldform apresenta uma dificuldade. A expressão «forme-argent» pode
+aplicar-se indistintamente a todas as mercadorias, salvo os metais preciosos [pois argent significa
+dinheiro e prata]. Não se poderá dizer, por exemplo, sem provocar confusão no espirito dos leitores:
+«forme-argent de l'argent», ou «l'or devient argent». De resto, a expressão «forme-monnaie»
+apresenta um outro inconveniente, pois em francês a palavra monnaie é frequentemente utilizada
+no sentido de moedas (...) ». Evidentemente, tal perigo não existe no português. Por isso
+traduziremos sempre Geld, etc, por dinheiro, etc, e utilizaremos o termo moeda para traduzir o
+alemão Münze (no francês traduzido, segundo os casos, por numeraire ou espèces). (retornar ao
+texto)
+[21] «Para encorajar os outros». - Depois da derrota das revoluções de 1848-49 na Europa e
+durante o período de reacção e de «acalmia» que se lhe seguiu, houve um grande entusiasmo, nos
+círculos das classes altas, pelo espiritismo, incluindo o jogo da «mesa dançante». Ao mesmo
+tempo, na China, a partir de 1850, dava-se o levantamento dos camponeses, conhecido pela
+Revolta dos Tai-ping. (retornar à nota)
+[22] Também em Portugal as palavras jeira e jornal designaram medidas da terra, quantidade de
+terra trabalhada durante um dia por um homem ou por uma junta de bois. O seu uso subsiste em
+muitas regiões do pais. (retornar à nota)
+[23] «Paralelogramos de Owen». Owen, «socialista utópico» inglês (m. em 1858) propugnava a
+criação de colónias segundo os seus planos de reforma social, e tentou provar que a forma mais
+conveniente para elas seria a do paralelogramo ou a do quadrado. (retornar à nota)
+[24] Na ed. francesa esta nota e a seguinte estão traduzidas mais ou menos livremente e sem
+referência à Contribuição. Aproximámos o texto do original. (retornar à nota)
+[25] Este parágrafo contém uma das poucas passagens em que Marx esboça os traços da
+sociedade futura, e mesmo assim não como antecipação mas apenas como hipótese de trabalho.
+Note-se, contudo, a referência, também rara nos textos clássicos do marxismo, à planificação como
+característica da sociedade socialista. (retornar ao texto)
+[26] Segundo o filósofo grego Epicuro os deuses habitavam o intermundos, o espaço entre os
+mundos, não tendo influência sobre a vida do mundo e dos homens. (retornar ao texto)
+[27] Na ed. alemã a presente nota começa a partir daqui. O texto precedente constitui, resumido, a
+nota 17a, também incluída nesta edição. (retornar ao texto)
+[28] Na ed. francesa esta nota vem colocada no final do § 3, al. D. Parece deslocada aí. (retornar à
+nota)
+[29] Redacção diferente destes dois períodos na ed. alemã: «Uma vez que a forma-mercadoria é a
+forma mais geral e mais elementar da produção burguesa - razão por que surgiu cedo, embora não
+da maneira dominante e caracteristica de hoje -, daí que pareça relativamente fácil aperceber o seu
+carácter fetichista. No caso de formas mais concretas até essa aparência de simplicidade
+desaparece». (retornar ao texto)
+[30] Shakespeare, Much Ado for Nothing, acto III, cena III. (retornar ao texto)
